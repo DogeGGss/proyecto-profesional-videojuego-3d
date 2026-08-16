@@ -1,0 +1,21 @@
+# Unreal Engine - archivos generados
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Config/DefaultEditorPerProjectUserSettings.ini
+
+# Visual Studio / IDE
+.vs/
+.idea/
+*.sln
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+
+# Sistema
+.DS_Store
+Thumbs.db
