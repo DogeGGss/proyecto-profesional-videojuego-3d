@@ -92,14 +92,14 @@
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 91
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 92
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 93
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 94
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 95
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 96
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 97
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 98
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 99
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 100
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 101
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 94
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 95
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 96
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 97
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 98
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 101
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 102
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 103
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 104
@@ -381,456 +381,456 @@
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 380
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 381
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 382
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 383
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 384
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 385
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 386
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 387
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 388
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 389
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 390
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 391
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 392
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 393
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 394
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 395
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 396
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 397
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 398
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 399
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 400
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 401
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 402
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 403
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 404
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 405
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 406
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 407
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 408
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 409
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 410
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 411
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 412
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 413
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 414
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 415
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 416
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 417
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 418
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 419
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 420
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 421
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 422
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 423
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 424
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 425
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 426
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 427
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 428
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 429
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 430
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 431
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 432
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 433
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 434
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 435
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 436
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 437
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 438
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 439
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 440
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 441
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 442
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 443
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 444
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 445
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 446
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 447
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 448
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 449
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 450
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 451
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 452
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 453
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 454
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 455
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 456
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 457
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 458
-"../../../Engine/Content/EngineResources/Black.uasset" 459
-"../../../Engine/Content/EngineResources/Black.uexp" 460
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 461
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 462
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 463
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 464
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 465
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 466
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 467
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 468
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 469
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 470
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 471
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 472
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 473
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 474
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 475
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 476
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 477
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 478
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 479
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 480
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 481
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 482
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 483
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 484
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 485
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 486
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 487
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 488
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 489
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 490
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 491
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 492
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 493
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 494
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 495
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 496
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 497
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 498
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 499
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 500
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 501
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 502
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 503
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 504
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 505
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 506
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 507
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 508
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 509
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 510
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 511
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 512
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 513
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 514
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 515
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 516
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 517
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 518
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 519
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 520
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 521
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 522
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 523
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 524
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 525
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 526
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 527
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 528
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 529
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 530
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 531
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 532
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 533
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 534
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 535
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 536
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 537
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 538
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 539
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 540
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 541
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 542
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 543
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 544
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 545
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 546
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 547
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 548
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 549
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 550
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 551
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 552
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 553
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 554
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 555
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 556
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 557
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 558
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 559
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 560
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 561
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 562
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 563
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 564
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 565
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 566
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 567
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 568
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 569
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 570
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 571
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 572
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 573
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 574
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 575
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 576
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 577
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 578
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 579
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 580
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 581
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 582
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 583
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 584
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 585
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 586
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 587
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 588
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 589
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 590
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 591
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 592
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 593
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 594
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 595
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 596
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 597
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 598
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 599
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 600
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 601
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 602
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 603
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 604
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 605
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 606
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 607
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 608
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 609
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 610
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 611
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 612
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 613
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 614
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 615
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 616
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 617
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 618
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 619
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 620
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 621
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 622
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 623
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 624
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 625
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 626
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 627
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 628
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 629
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 630
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 631
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 632
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 633
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 634
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 635
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 636
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 637
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 638
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 639
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 640
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 641
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 642
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 643
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 644
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 645
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 646
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 647
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 648
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 649
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 650
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 651
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 652
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 653
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 654
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 655
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 656
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 657
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 658
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 659
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 660
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 661
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uexp" 662
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 663
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 664
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.uexp" 665
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 666
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 667
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 668
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 669
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 670
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 671
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 672
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 673
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 674
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 675
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 676
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 677
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 678
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 679
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uasset" 680
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uexp" 681
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.ubulk" 682
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 683
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 684
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 685
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 686
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 687
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 688
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 689
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 690
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 691
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 692
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uasset" 693
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uexp" 694
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.uexp" 695
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.umap" 696
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 697
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.uexp" 698
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.ubulk" 699
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 700
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.uexp" 701
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.ubulk" 702
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 703
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uexp" 704
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_TableRound.uasset" 705
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_TableRound.uexp" 706
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset" 707
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.uexp" 708
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.ubulk" 709
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset" 710
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.uexp" 711
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.ubulk" 712
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 713
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Statue.uexp" 714
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 715
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 716
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Statue.uasset" 717
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Statue.uexp" 718
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset" 719
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.uexp" 720
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.ubulk" 721
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset" 722
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.uexp" 723
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.ubulk" 724
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 725
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Chair.uexp" 726
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Chair.uasset" 727
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Chair.uexp" 728
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 729
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_MacroVariation.uexp" 730
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 731
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 732
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 733
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 734
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 735
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 736
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 737
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uexp" 738
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 739
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 740
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 741
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 742
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 743
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 744
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 745
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 746
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 747
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 748
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 384
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 386
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 387
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 388
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 390
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 392
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 394
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 396
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 398
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 404
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 406
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 408
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 409
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 410
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 411
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 412
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 413
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 414
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 415
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 416
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 417
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 418
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 419
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 420
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 421
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 422
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 423
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 424
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 425
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 426
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 427
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 428
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 429
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 430
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 431
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 432
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 433
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 434
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 435
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 436
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 437
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 438
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 439
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 440
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 441
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 442
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 443
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 445
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 446
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 448
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 452
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 453
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 454
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 455
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 456
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 457
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 458
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 459
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 460
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 461
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 462
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 463
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 464
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 467
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 468
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 469
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 470
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 473
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 474
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 475
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 476
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 477
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 478
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 479
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 480
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 481
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 482
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 483
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 484
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 485
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 486
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 487
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 488
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 489
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 490
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 491
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 492
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 493
+"../../../Engine/Content/EngineResources/Black.uasset" 494
+"../../../Engine/Content/EngineResources/Black.uexp" 495
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 496
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 497
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 498
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 499
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 500
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 501
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 502
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 503
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 504
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 505
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 506
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 507
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 508
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 509
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 510
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 511
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 512
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 513
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 514
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 515
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 516
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 517
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 518
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 519
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 520
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 521
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 522
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 523
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 524
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 525
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 526
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 527
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 528
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 529
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 530
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 531
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 532
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 533
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 534
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 535
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 536
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 537
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 538
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 539
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 540
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 541
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 542
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 543
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 544
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 545
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 546
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 547
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 548
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 549
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 550
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 551
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 552
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 553
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 554
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 555
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 556
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 557
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 558
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 559
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 560
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 561
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 562
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 563
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 564
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 565
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 566
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 567
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 568
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 569
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 570
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 571
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 572
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 573
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 574
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 575
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 576
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 577
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 578
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 579
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 580
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 581
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 582
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 585
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 587
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 588
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 589
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 590
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 591
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 592
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 593
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 594
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 595
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 596
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 597
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 598
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 599
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 600
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 601
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 602
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 603
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 604
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 605
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 606
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 607
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 608
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 609
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 610
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 611
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 612
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 613
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 614
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 615
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 616
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 617
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 618
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 619
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 620
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 621
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 622
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 623
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 624
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 625
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 626
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 627
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 628
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 629
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 630
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 631
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 632
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 633
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 634
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 635
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 636
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 637
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 638
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 639
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 640
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 641
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 642
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 643
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 644
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 645
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 646
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 647
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 648
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 649
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 650
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 651
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 652
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 653
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 654
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 655
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 656
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 657
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 658
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 659
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uexp" 660
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 661
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 662
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.uexp" 663
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 664
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 665
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 666
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 667
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 668
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 669
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 670
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 671
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 672
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 673
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 674
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 675
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 676
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 677
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uasset" 678
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uexp" 679
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.ubulk" 680
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 681
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 682
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 683
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 684
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 685
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 686
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 687
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 688
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 689
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 690
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uasset" 691
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uexp" 692
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.uexp" 693
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.umap" 694
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 695
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.uexp" 696
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_N.ubulk" 697
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 698
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.uexp" 699
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_TableRound_M.ubulk" 700
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 701
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uexp" 702
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_TableRound.uasset" 703
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_TableRound.uexp" 704
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset" 705
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.uexp" 706
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_N.ubulk" 707
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset" 708
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.uexp" 709
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Statue_M.ubulk" 710
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 711
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Statue.uexp" 712
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 713
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 714
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Statue.uasset" 715
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Statue.uexp" 716
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset" 717
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.uexp" 718
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_N.ubulk" 719
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset" 720
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.uexp" 721
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Chair_M.ubulk" 722
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 723
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Chair.uexp" 724
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Chair.uasset" 725
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Chair.uexp" 726
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 727
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_MacroVariation.uexp" 728
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 729
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 730
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 731
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 732
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 733
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 734
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 735
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uexp" 736
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 737
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 738
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 739
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 740
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 741
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 742
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 743
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 744
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 745
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 746
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 747
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 748
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 749
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uexp" 750
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 751
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Floor_400x400.uexp" 752
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 753
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 754
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.uexp" 755
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" 756
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 757
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uexp" 758
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 759
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 760
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 761
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 762
-"../../../Engine/Content/BasicShapes/Plane.uasset" 763
-"../../../Engine/Content/BasicShapes/Plane.uexp" 764
-"../../../Engine/Content/BasicShapes/Cube.uasset" 765
-"../../../Engine/Content/BasicShapes/Cube.uexp" 766
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 767
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 768
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 769
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 770
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 771
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 772
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 773
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uexp" 774
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 775
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 776
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 777
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 778
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 779
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 780
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 781
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 782
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 783
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 784
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 785
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 786
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 787
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 788
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 789
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 790
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 791
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 792
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 793
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 794
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 795
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 796
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 797
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 798
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 799
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 800
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 801
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uexp" 802
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 803
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uasset" 804
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uexp" 805
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 806
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 807
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 808
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 809
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 810
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 811
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 812
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 813
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 814
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 815
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 816
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uasset" 817
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uexp" 818
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 819
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 820
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 821
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uexp" 822
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 823
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 824
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_SubeYBaja_Grande.uasset" 825
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_SubeYBaja_Grande.uexp" 826
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 827
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uexp" 828
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.uexp" 829
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 830
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 831
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uexp" 832
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.uexp" 753
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" 754
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 755
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uexp" 756
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 757
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 758
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 759
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 760
+"../../../Engine/Content/BasicShapes/Plane.uasset" 761
+"../../../Engine/Content/BasicShapes/Plane.uexp" 762
+"../../../Engine/Content/BasicShapes/Cube.uasset" 763
+"../../../Engine/Content/BasicShapes/Cube.uexp" 764
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 765
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 766
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 767
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 768
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 769
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 770
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 771
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uexp" 772
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 773
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 774
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 775
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 776
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 777
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 778
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 779
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 780
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 781
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 782
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 783
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 784
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 785
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 786
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 787
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 788
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 789
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 790
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 791
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 792
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 793
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 794
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 795
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 796
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 797
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 798
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 799
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uexp" 800
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 801
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uasset" 802
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uexp" 803
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 804
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 805
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 806
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 807
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 808
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 809
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 810
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 811
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 812
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 813
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 814
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uasset" 815
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uexp" 816
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 817
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 818
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 819
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uexp" 820
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 821
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 822
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_SubeYBaja_Grande.uasset" 823
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_SubeYBaja_Grande.uexp" 824
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 825
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uexp" 826
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.uexp" 827
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 828
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 829
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uexp" 830
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 831
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 832
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset" 833
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_Mat.uexp" 834
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 835
@@ -912,15 +912,15 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 911
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 912
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 913
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 914
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 915
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 916
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 917
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 918
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 919
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 920
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 921
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 922
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 914
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 915
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 916
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 917
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 918
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 919
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 920
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 921
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 922
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 923
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uexp" 924
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 925
@@ -1041,179 +1041,179 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1040
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1041
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1042
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1043
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1044
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1045
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1046
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1047
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1048
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1049
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1050
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1051
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1052
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1053
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1054
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1055
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1056
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1057
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1058
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1059
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1060
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1061
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1062
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1063
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1064
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1065
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1066
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1067
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1068
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1069
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1070
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1071
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1072
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1073
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1074
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1075
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1076
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1077
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1078
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1079
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1080
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1081
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1082
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1083
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1084
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1085
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1086
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1087
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1088
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1089
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1090
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1091
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1092
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1093
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1094
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1095
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1096
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1097
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1098
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1099
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1100
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 1101
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 1102
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1103
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1104
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1105
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1106
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1107
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1108
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1109
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1110
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1111
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1112
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1113
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1114
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1115
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1116
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1117
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1118
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1119
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1120
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1121
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1122
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1123
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1124
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1125
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1126
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1127
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1128
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1129
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1130
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1131
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1132
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1133
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1134
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1135
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1136
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1137
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1138
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 1139
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uexp" 1140
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1141
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1142
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1143
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1144
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 1145
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uexp" 1146
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 1147
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uexp" 1148
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1149
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1150
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1151
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1152
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 1153
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1154
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1155
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1156
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 1157
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 1158
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1159
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 1160
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 1161
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1162
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 1163
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uasset" 1164
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uexp" 1165
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1166
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1167
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1168
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1169
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1170
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1171
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 1172
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uexp" 1173
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1174
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1175
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 1176
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uexp" 1177
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1178
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 1179
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uexp" 1180
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1181
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1182
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1183
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1184
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1185
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1186
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1187
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1188
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uexp" 1189
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1190
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1191
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1192
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1193
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1194
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1195
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1196
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1197
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1198
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1199
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uasset" 1200
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uexp" 1201
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1202
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1203
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uasset" 1204
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uexp" 1205
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1206
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1207
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1208
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1209
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1210
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1211
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1212
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1213
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1214
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1215
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1043
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1044
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1045
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1046
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1047
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1048
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1049
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1050
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1051
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1052
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1053
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1054
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1055
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1056
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1057
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1058
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1059
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1060
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1061
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1062
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1063
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1064
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1065
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1066
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1067
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1068
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1069
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1070
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1071
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1072
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1073
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1074
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1075
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1076
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1077
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1078
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1079
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1080
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1081
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1082
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1083
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 1084
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 1085
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1086
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1087
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1088
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1089
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1090
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1091
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1092
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1093
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1094
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1095
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1096
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1097
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1098
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1099
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1100
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1101
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1102
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1103
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1104
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1105
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1106
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1107
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1108
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1109
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1110
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1111
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1112
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1113
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1114
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1115
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1116
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1117
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1118
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1119
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1120
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1121
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1122
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1125
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1126
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1127
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1128
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1129
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1130
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1131
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1132
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1133
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1134
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1135
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1136
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1137
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1138
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 1139
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uexp" 1140
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1141
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 1142
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uexp" 1143
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1144
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1145
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1146
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1147
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1148
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1149
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1150
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1151
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 1152
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 1153
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1154
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 1155
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 1156
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1157
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 1158
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1159
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1160
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 1161
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uexp" 1162
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1163
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1164
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 1165
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uexp" 1166
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1167
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1168
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 1171
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1172
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1173
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uasset" 1174
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uexp" 1175
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1176
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1177
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1178
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1179
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uasset" 1180
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uexp" 1181
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1182
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1183
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1184
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1185
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1186
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1187
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1188
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1189
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1190
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1191
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1192
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1193
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1194
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1195
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uasset" 1196
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uexp" 1197
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1198
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uexp" 1199
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1200
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1201
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1202
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1203
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1204
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1205
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1206
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1207
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 1208
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uexp" 1209
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1210
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1211
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1212
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1213
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 1214
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uexp" 1215
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap.uexp" 1216
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap.umap" 1217
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1218

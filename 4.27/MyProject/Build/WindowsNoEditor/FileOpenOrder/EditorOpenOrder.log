@@ -15,402 +15,402 @@
 "../../../Engine/Config/Windows/DataDrivenPlatformInfo.ini" 15
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/MyProject.uproject" 16
 "../../../Engine/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin" 17
-"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 18
-"../../../Engine/Plugins/MeshPainting/MeshPainting.uplugin" 19
-"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 20
+"../../../Engine/Plugins/MeshPainting/MeshPainting.uplugin" 18
+"../../../Engine/Plugins/AI/EnvironmentQueryEditor/EnvironmentQueryEditor.uplugin" 19
+"../../../Engine/Plugins/AI/HTNPlanner/HTNPlanner.uplugin" 20
 "../../../Engine/Plugins/XGEController/XGEController.uplugin" 21
 "../../../Engine/Plugins/AI/UE4ML/UE4ML.uplugin" 22
-"../../../Engine/Plugins/AI/AISupport/AISupport.uplugin" 23
-"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 24
-"../../../Engine/Plugins/Enterprise/AxFImporter/AxFImporter.uplugin" 25
-"../../../Engine/Plugins/Animation/LiveLink/LiveLink.uplugin" 26
-"../../../Engine/Plugins/AI/HTNPlanner/HTNPlanner.uplugin" 27
-"../../../Engine/Plugins/Animation/GameplayInsights/GameplayInsights.uplugin" 28
-"../../../Engine/Plugins/Enterprise/DatasmithFBXImporter/DatasmithFBXImporter.uplugin" 29
-"../../../Engine/Plugins/Animation/LiveLinkCurveDebugUI/LiveLinkCurveDebugUI.uplugin" 30
-"../../../Engine/Plugins/AI/EnvironmentQueryEditor/EnvironmentQueryEditor.uplugin" 31
-"../../../Engine/Plugins/Enterprise/MDLImporter/MDLImporter.uplugin" 32
-"../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin" 33
-"../../../Engine/Plugins/Importers/AlembicHairImporter/AlembicHairImporter.uplugin" 34
-"../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin" 35
-"../../../Engine/Plugins/Enterprise/DatasmithC4DImporter/DatasmithC4DImporter.uplugin" 36
-"../../../Engine/Plugins/Enterprise/DatasmithIFCImporter/DatasmithIFCImporter.uplugin" 37
-"../../../Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin" 38
-"../../../Engine/Plugins/Compression/OodleNetwork/OodleNetwork.uplugin" 39
-"../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin" 40
-"../../../Engine/Plugins/Enterprise/VariantManager/VariantManager.uplugin" 41
-"../../../Engine/Plugins/Enterprise/DatasmithCADImporter/DatasmithCADImporter.uplugin" 42
-"../../../Engine/Plugins/Experimental/AppleVision/AppleVision.uplugin" 43
-"../../../Engine/Plugins/Experimental/BackChannel/BackChannel.uplugin" 44
-"../../../Engine/Plugins/Experimental/BlastPlugin/BlastPlugin.uplugin" 45
-"../../../Engine/Plugins/Compositing/Composure/Composure.uplugin" 46
-"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 47
-"../../../Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin" 48
-"../../../Engine/Plugins/Experimental/ChaosCaching/ChaosCaching.uplugin" 49
-"../../../Engine/Plugins/Experimental/ChaosClothEditor/ChaosClothEditor.uplugin" 50
-"../../../Engine/Plugins/FX/Niagara/Niagara.uplugin" 51
-"../../../Engine/Plugins/Experimental/ActorPalette/ActorPalette.uplugin" 52
-"../../../Engine/Plugins/Importers/USDImporter/USDImporter.uplugin" 53
-"../../../Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin" 54
-"../../../Engine/Plugins/Experimental/ChaosSolverPlugin/ChaosSolverPlugin.uplugin" 55
-"../../../Engine/Plugins/Enterprise/DatasmithImporter/DatasmithImporter.uplugin" 56
-"../../../Engine/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin" 57
-"../../../Engine/Plugins/Lumin/MagicLeapConnections/MagicLeapConnections.uplugin" 58
-"../../../Engine/Plugins/Enterprise/DatasmithGLTFImporter/DatasmithGLTFImporter.uplugin" 59
-"../../../Engine/Plugins/Animation/RigLogic/RigLogic.uplugin" 60
-"../../../Engine/Plugins/Experimental/ChaosEditor/ChaosEditor.uplugin" 61
-"../../../Engine/Plugins/FX/CascadeToNiagaraConverter/CascadeToNiagaraConverter.uplugin" 62
-"../../../Engine/Plugins/Enterprise/DataprepEditor/DataprepEditor.uplugin" 63
-"../../../Engine/Plugins/Lumin/MagicLeapContacts/MagicLeapContacts.uplugin" 64
-"../../../Engine/Plugins/Importers/USDMultiUser/USDMultiUser.uplugin" 65
-"../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin" 66
-"../../../Engine/Plugins/Media/AndroidCamera/AndroidCamera.uplugin" 67
-"../../../Engine/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin" 68
-"../../../Engine/Plugins/Lumin/MagicLeapMovement/MagicLeapMovement.uplugin" 69
-"../../../Engine/Plugins/Enterprise/LidarPointCloud/LidarPointCloud.uplugin" 70
-"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 71
-"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 72
-"../../../Engine/Plugins/Lumin/MagicLeap/MagicLeap.uplugin" 73
-"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 74
-"../../../Engine/Plugins/Compression/OodleData/OodleData.uplugin" 75
-"../../../Engine/Plugins/Lumin/MagicLeapMusicService/MagicLeapMusicService.uplugin" 76
-"../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/ChaosVehiclesPlugin.uplugin" 77
-"../../../Engine/Plugins/Lumin/MagicLeapBLE/MagicLeapBLE.uplugin" 78
-"../../../Engine/Plugins/Media/AvidDNxMedia/AvidDNxMedia.uplugin" 79
-"../../../Engine/Plugins/Media/AppleProResMedia/AppleProResMedia.uplugin" 80
-"../../../Engine/Plugins/Experimental/ColorCorrectRegions/ColorCorrectRegions.uplugin" 81
-"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 82
-"../../../Engine/Plugins/Experimental/CommonConversation/CommonConversation.uplugin" 83
-"../../../Engine/Plugins/Media/BinkMedia/BinkMedia.uplugin" 84
-"../../../Engine/Plugins/Media/BlackmagicMedia/BlackmagicMedia.uplugin" 85
-"../../../Engine/Plugins/Lumin/MagicLeapDispatch/MagicLeapDispatch.uplugin" 86
-"../../../Engine/Plugins/Experimental/CommonUI/CommonUI.uplugin" 87
-"../../../Engine/Plugins/Lumin/MagicLeapMedia/MagicLeapMedia.uplugin" 88
-"../../../Engine/Plugins/Lumin/MagicLeapLocation/MagicLeapLocation.uplugin" 89
-"../../../Engine/Plugins/Media/HAPMedia/HAPMedia.uplugin" 90
-"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 91
-"../../../Engine/Plugins/Media/AudioCaptureTimecodeProvider/AudioCaptureTimecodeProvider.uplugin" 92
-"../../../Engine/Plugins/Media/HardwareEncoders/HardwareEncoders.uplugin" 93
-"../../../Engine/Plugins/Media/MediaFrameworkUtilities/MediaFrameworkUtilities.uplugin" 94
-"../../../Engine/Plugins/Media/MediaIOFramework/MediaIOFramework.uplugin" 95
-"../../../Engine/Plugins/Media/MediaCompositing/MediaCompositing.uplugin" 96
-"../../../Engine/Plugins/Lumin/MagicLeapCamera/MagicLeapCamera.uplugin" 97
-"../../../Engine/Plugins/Media/MediaMovieStreamer/MediaMovieStreamer.uplugin" 98
-"../../../Engine/Plugins/Lumin/LuminPlatformFeatures/LuminPlatformFeatures.uplugin" 99
-"../../../Engine/Plugins/Media/WebMMedia/WebMMedia.uplugin" 100
-"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 101
-"../../../Engine/Plugins/Media/MfMedia/MfMedia.uplugin" 102
-"../../../Engine/Plugins/Lumin/MagicLeapSharedFile/MagicLeapSharedFile.uplugin" 103
-"../../../Engine/Plugins/Experimental/ControlRig/ControlRig.uplugin" 104
-"../../../Engine/Plugins/Media/AjaMedia/AjaMedia.uplugin" 105
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin" 106
-"../../../Engine/Plugins/Lumin/MLSDK/MLSDK.uplugin" 107
-"../../../Engine/Plugins/Experimental/ExampleAssetEditor/ExampleAssetEditor.uplugin" 108
-"../../../Engine/Plugins/Media/ElectraCDM/ElectraCDM.uplugin" 109
-"../../../Engine/Plugins/Experimental/Gauntlet/Gauntlet.uplugin" 110
-"../../../Engine/Plugins/Media/HLMedia/HLMedia.uplugin" 111
-"../../../Engine/Plugins/Experimental/GeometryCacheAbcFile/GeometryCacheAbcFile.uplugin" 112
-"../../../Engine/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin" 113
-"../../../Engine/Plugins/Enterprise/StaticMeshEditorExtension/StaticMeshEditorExtension.uplugin" 114
-"../../../Engine/Plugins/Experimental/GizmoFramework/GizmoFramework.uplugin" 115
-"../../../Engine/Plugins/Lumin/MagicLeapNetworking/MagicLeapNetworking.uplugin" 116
-"../../../Engine/Plugins/Experimental/FieldSystemPlugin/FieldSystemPlugin.uplugin" 117
-"../../../Engine/Plugins/Experimental/GizmoEdMode/GizmoEdMode.uplugin" 118
-"../../../Engine/Plugins/Media/ElectraPlayer/ElectraPlayer.uplugin" 119
-"../../../Engine/Plugins/Media/ElectraUtil/ElectraUtil.uplugin" 120
-"../../../Engine/Plugins/Experimental/ModelingToolsEditorMode/ModelingToolsEditorMode.uplugin" 121
-"../../../Engine/Plugins/Media/ImgMedia/ImgMedia.uplugin" 122
-"../../../Engine/Plugins/Experimental/Landmass/Landmass.uplugin" 123
-"../../../Engine/Plugins/Experimental/ImagePlate/ImagePlate.uplugin" 124
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 23
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 24
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 25
+"../../../Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin" 26
+"../../../Engine/Plugins/Animation/GameplayInsights/GameplayInsights.uplugin" 27
+"../../../Engine/Plugins/Compression/OodleData/OodleData.uplugin" 28
+"../../../Engine/Plugins/Animation/LiveLink/LiveLink.uplugin" 29
+"../../../Engine/Plugins/Animation/RigLogic/RigLogic.uplugin" 30
+"../../../Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin" 31
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 32
+"../../../Engine/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin" 33
+"../../../Engine/Plugins/AI/AISupport/AISupport.uplugin" 34
+"../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin" 35
+"../../../Engine/Plugins/Compositing/Composure/Composure.uplugin" 36
+"../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin" 37
+"../../../Engine/Plugins/Compositing/OpenColorIO/OpenColorIO.uplugin" 38
+"../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin" 39
+"../../../Engine/Plugins/Animation/LiveLinkCurveDebugUI/LiveLinkCurveDebugUI.uplugin" 40
+"../../../Engine/Plugins/Compositing/LensDistortion/LensDistortion.uplugin" 41
+"../../../Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin" 42
+"../../../Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin" 43
+"../../../Engine/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin" 44
+"../../../Engine/Plugins/Editor/MaterialAnalyzer/MaterialAnalyzer.uplugin" 45
+"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/CLionSourceCodeAccess.uplugin" 46
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 47
+"../../../Engine/Plugins/Editor/GeometryMode/GeometryMode.uplugin" 48
+"../../../Engine/Plugins/Editor/DataValidation/DataValidation.uplugin" 49
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 50
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 51
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 52
+"../../../Engine/Plugins/Compression/OodleNetwork/OodleNetwork.uplugin" 53
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 54
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 55
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 56
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 57
+"../../../Engine/Plugins/Developer/PropertyAccessNode/PropertyAccessNode.uplugin" 58
+"../../../Engine/Plugins/Editor/CurveEditorTools/CurveEditorTools.uplugin" 59
+"../../../Engine/Plugins/Developer/RenderDocPlugin/RenderDocPlugin.uplugin" 60
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 61
+"../../../Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin" 62
+"../../../Engine/Plugins/Developer/RiderSourceCodeAccess/RiderSourceCodeAccess.uplugin" 63
+"../../../Engine/Plugins/Developer/PixWinPlugin/PixWinPlugin.uplugin" 64
+"../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin" 65
+"../../../Engine/Plugins/Developer/TraceSourceFiltering/TraceSourceFilters.uplugin" 66
+"../../../Engine/Plugins/Developer/TextureFormatOodle/TextureFormatOodle.uplugin" 67
+"../../../Engine/Plugins/Developer/TraceDataFiltering/TraceDataFilters.uplugin" 68
+"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/VisualStudioCodeSourceCodeAccess.uplugin" 69
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 70
+"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin" 71
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 72
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 73
+"../../../Engine/Plugins/Developer/PlasticSourceControl/PlasticSourceControl.uplugin" 74
+"../../../Engine/Plugins/Editor/GLTFImporter/GLTFImporter.uplugin" 75
+"../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin" 76
+"../../../Engine/Plugins/Enterprise/DataprepEditor/DataprepEditor.uplugin" 77
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 78
+"../../../Engine/Plugins/Enterprise/DatasmithC4DImporter/DatasmithC4DImporter.uplugin" 79
+"../../../Engine/Plugins/Editor/StylusInput/StylusInput.uplugin" 80
+"../../../Engine/Plugins/Enterprise/DatasmithCADImporter/DatasmithCADImporter.uplugin" 81
+"../../../Engine/Plugins/Enterprise/DatasmithFBXImporter/DatasmithFBXImporter.uplugin" 82
+"../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin" 83
+"../../../Engine/Plugins/Enterprise/DatasmithImporter/DatasmithImporter.uplugin" 84
+"../../../Engine/Plugins/Enterprise/DatasmithGLTFImporter/DatasmithGLTFImporter.uplugin" 85
+"../../../Engine/Plugins/Enterprise/MDLImporter/MDLImporter.uplugin" 86
+"../../../Engine/Plugins/Enterprise/AxFImporter/AxFImporter.uplugin" 87
+"../../../Engine/Plugins/Experimental/AppleVision/AppleVision.uplugin" 88
+"../../../Engine/Plugins/Experimental/ActorPalette/ActorPalette.uplugin" 89
+"../../../Engine/Plugins/Experimental/BackChannel/BackChannel.uplugin" 90
+"../../../Engine/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin" 91
+"../../../Engine/Plugins/Enterprise/DatasmithIFCImporter/DatasmithIFCImporter.uplugin" 92
+"../../../Engine/Plugins/Enterprise/StaticMeshEditorExtension/StaticMeshEditorExtension.uplugin" 93
+"../../../Engine/Plugins/Enterprise/VariantManager/VariantManager.uplugin" 94
+"../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin" 95
+"../../../Engine/Plugins/Experimental/BlastPlugin/BlastPlugin.uplugin" 96
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 97
+"../../../Engine/Plugins/Experimental/ChaosCloth/ChaosCloth.uplugin" 98
+"../../../Engine/Plugins/Enterprise/LidarPointCloud/LidarPointCloud.uplugin" 99
+"../../../Engine/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin" 100
+"../../../Engine/Plugins/Experimental/ChaosCaching/ChaosCaching.uplugin" 101
+"../../../Engine/Plugins/Experimental/ChaosSolverPlugin/ChaosSolverPlugin.uplugin" 102
+"../../../Engine/Plugins/Experimental/ChaosClothEditor/ChaosClothEditor.uplugin" 103
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 104
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 105
+"../../../Engine/Plugins/Experimental/ColorCorrectRegions/ColorCorrectRegions.uplugin" 106
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 107
+"../../../Engine/Plugins/Experimental/EnhancedInput/EnhancedInput.uplugin" 108
+"../../../Engine/Plugins/Experimental/FullBodyIK/FullBodyIK.uplugin" 109
+"../../../Engine/Plugins/Experimental/FieldSystemPlugin/FieldSystemPlugin.uplugin" 110
+"../../../Engine/Plugins/Experimental/ChaosEditor/ChaosEditor.uplugin" 111
+"../../../Engine/Plugins/Experimental/Gauntlet/Gauntlet.uplugin" 112
+"../../../Engine/Plugins/Experimental/ExampleAssetEditor/ExampleAssetEditor.uplugin" 113
+"../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/ChaosVehiclesPlugin.uplugin" 114
+"../../../Engine/Plugins/Experimental/CommonUI/CommonUI.uplugin" 115
+"../../../Engine/Plugins/Experimental/GizmoEdMode/GizmoEdMode.uplugin" 116
+"../../../Engine/Plugins/Experimental/Landmass/Landmass.uplugin" 117
+"../../../Engine/Plugins/Experimental/ControlRig/ControlRig.uplugin" 118
+"../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin" 119
+"../../../Engine/Plugins/Experimental/MeshModelingToolset/MeshModelingToolset.uplugin" 120
+"../../../Engine/Plugins/Experimental/GeometryCacheAbcFile/GeometryCacheAbcFile.uplugin" 121
+"../../../Engine/Plugins/Experimental/LiveLinkControlRig/LiveLinkControlRig.uplugin" 122
+"../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/GeometryCollectionPlugin.uplugin" 123
+"../../../Engine/Plugins/Experimental/GameFeatures/GameFeatures.uplugin" 124
 "../../../Engine/Plugins/Experimental/ModularGameplay/ModularGameplay.uplugin" 125
-"../../../Engine/Plugins/Experimental/FullBodyIK/FullBodyIK.uplugin" 126
-"../../../Engine/Plugins/Experimental/MeshModelingToolset/MeshModelingToolset.uplugin" 127
-"../../../Engine/Plugins/Experimental/GPULightmass/GPULightmass.uplugin" 128
-"../../../Engine/Plugins/Experimental/MotionTrailEditorMode/MotionTrailEditorMode.uplugin" 129
-"../../../Engine/Plugins/Media/LinearTimecode/LinearTimecode.uplugin" 130
-"../../../Engine/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin" 131
-"../../../Engine/Plugins/Media/TimecodeSynchronizer/TimecodeSynchronizer.uplugin" 132
+"../../../Engine/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin" 126
+"../../../Engine/Plugins/Experimental/ImpostorBaker/ImpostorBaker.uplugin" 127
+"../../../Engine/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin" 128
+"../../../Engine/Plugins/Experimental/ImagePlate/ImagePlate.uplugin" 129
+"../../../Engine/Plugins/Experimental/MotionTrailEditorMode/MotionTrailEditorMode.uplugin" 130
+"../../../Engine/Plugins/Experimental/GPULightmass/GPULightmass.uplugin" 131
+"../../../Engine/Plugins/Experimental/ModelingToolsEditorMode/ModelingToolsEditorMode.uplugin" 132
 "../../../Engine/Plugins/Experimental/PanoramicCapture/PanoramicCapture.uplugin" 133
-"../../../Engine/Plugins/Experimental/ProxyLODPlugin/ProxyLODPlugin.uplugin" 134
-"../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin" 135
-"../../../Engine/Plugins/Experimental/RawInput/RawInput.uplugin" 136
-"../../../Engine/Plugins/Experimental/ChaosCloth/ChaosCloth.uplugin" 137
-"../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/GeometryCollectionPlugin.uplugin" 138
-"../../../Engine/Plugins/Experimental/ImpostorBaker/ImpostorBaker.uplugin" 139
-"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 140
-"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 141
-"../../../Engine/Plugins/Experimental/LiveLinkControlRig/LiveLinkControlRig.uplugin" 142
-"../../../Engine/Plugins/Experimental/SkeletalReduction/SkeletalReduction.uplugin" 143
-"../../../Engine/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin" 144
-"../../../Engine/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin" 145
-"../../../Engine/Plugins/Experimental/VirtualCamera/VirtualCamera.uplugin" 146
-"../../../Engine/Plugins/Experimental/EnhancedInput/EnhancedInput.uplugin" 147
-"../../../Engine/Plugins/Experimental/Water/Water.uplugin" 148
-"../../../Engine/Plugins/Experimental/GameFeatures/GameFeatures.uplugin" 149
-"../../../Engine/Plugins/Experimental/SampleToolsEditorMode/SampleToolsEditorMode.uplugin" 150
-"../../../Engine/Plugins/Experimental/WebSocketNetworking/WebSocketNetworking.uplugin" 151
+"../../../Engine/Plugins/Experimental/CommonConversation/CommonConversation.uplugin" 134
+"../../../Engine/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin" 135
+"../../../Engine/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin" 136
+"../../../Engine/Plugins/Experimental/MotoSynth/MotoSynth.uplugin" 137
+"../../../Engine/Plugins/Experimental/RawInput/RawInput.uplugin" 138
+"../../../Engine/Plugins/Experimental/ProxyLODPlugin/ProxyLODPlugin.uplugin" 139
+"../../../Engine/Plugins/Experimental/GizmoFramework/GizmoFramework.uplugin" 140
+"../../../Engine/Plugins/Experimental/RemoteSession/RemoteSession.uplugin" 141
+"../../../Engine/Plugins/Experimental/ShallowWater/ShallowWater.uplugin" 142
+"../../../Engine/Plugins/Experimental/SampleToolsEditorMode/SampleToolsEditorMode.uplugin" 143
+"../../../Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin" 144
+"../../../Engine/Plugins/Experimental/SkeletalReduction/SkeletalReduction.uplugin" 145
+"../../../Engine/Plugins/Experimental/Text3D/Text3D.uplugin" 146
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 147
+"../../../Engine/Plugins/Experimental/VirtualCamera/VirtualCamera.uplugin" 148
+"../../../Engine/Plugins/Experimental/VirtualHeightfieldMesh/VirtualHeightfieldMesh.uplugin" 149
+"../../../Engine/Plugins/FX/Niagara/Niagara.uplugin" 150
+"../../../Engine/Plugins/Experimental/Water/Water.uplugin" 151
 "../../../Engine/Plugins/Experimental/Volumetrics/Volumetrics.uplugin" 152
-"../../../Engine/Plugins/Lumin/MagicLeapTablet/MagicLeapTablet.uplugin" 153
-"../../../Engine/Plugins/Online/EOSShared/EOSShared.uplugin" 154
-"../../../Engine/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin" 155
-"../../../Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin" 156
-"../../../Engine/Plugins/Online/OnlineSubsystemApple/OnlineSubsystemApple.uplugin" 157
-"../../../Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin" 158
-"../../../Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin" 159
-"../../../Engine/Plugins/Online/OnlineSubsystemEOS/OnlineSubsystemEOS.uplugin" 160
-"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 161
-"../../../Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin" 162
-"../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin" 163
-"../../../Engine/Plugins/Experimental/Shotgun/Shotgun.uplugin" 164
-"../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin" 165
-"../../../Engine/Plugins/Experimental/MotoSynth/MotoSynth.uplugin" 166
-"../../../Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin" 167
-"../../../Engine/Plugins/Experimental/VirtualHeightfieldMesh/VirtualHeightfieldMesh.uplugin" 168
-"../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin" 169
-"../../../Engine/Plugins/Online/OnlineSubsystemTwitch/OnlineSubsystemTwitch.uplugin" 170
-"../../../Engine/Plugins/Online/WebAuth/WebAuth.uplugin" 171
-"../../../Engine/Plugins/Experimental/RemoteSession/RemoteSession.uplugin" 172
-"../../../Engine/Plugins/Runtime/AnimationBudgetAllocator/AnimationBudgetAllocator.uplugin" 173
-"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 174
-"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 175
-"../../../Engine/Plugins/Performance/PerformanceMonitor/PerformanceMonitor.uplugin" 176
-"../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin" 177
-"../../../Engine/Plugins/Media/PixelStreaming/PixelStreaming.uplugin" 178
-"../../../Engine/Plugins/Runtime/ActorLayerUtilities/ActorLayerUtilities.uplugin" 179
-"../../../Engine/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin" 180
-"../../../Engine/Plugins/Experimental/ShallowWater/ShallowWater.uplugin" 181
-"../../../Engine/Plugins/Experimental/Text3D/Text3D.uplugin" 182
-"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 183
-"../../../Engine/Plugins/Online/OnlineSubsystemTencent/OnlineSubsystemTencent.uplugin" 184
-"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 185
-"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 186
-"../../../Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin" 187
-"../../../Engine/Plugins/Runtime/AudioModulation/AudioModulation.uplugin" 188
-"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin" 189
-"../../../Engine/Plugins/Tests/EditorTests/EditorTests.uplugin" 190
-"../../../Engine/Plugins/Online/OnlineSubsystemGoogle/OnlineSubsystemGoogle.uplugin" 191
-"../../../Engine/Plugins/MovieScene/MoviePipelineMaskRenderPass/MoviePipelineMaskRenderPass.uplugin" 192
-"../../../Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin" 193
-"../../../Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin" 194
-"../../../Engine/Plugins/Experimental/VirtualProductionUtilities/VirtualProductionUtilities.uplugin" 195
-"../../../Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin" 196
-"../../../Engine/Plugins/MovieScene/ReplayTracks/ReplayTracks.uplugin" 197
-"../../../Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin" 198
-"../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin" 199
-"../../../Engine/Plugins/Tests/RHITests/RHITests.uplugin" 200
-"../../../Engine/Plugins/Slate/SlateInsights/SlateInsights.uplugin" 201
-"../../../Engine/Plugins/MovieScene/MovieRenderPipeline/MovieRenderPipeline.uplugin" 202
-"../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin" 203
-"../../../Engine/Plugins/MovieScene/CustomizableSequencerTracks/CustomizableSequencerTracks.uplugin" 204
-"../../../Engine/Plugins/Runtime/AnimDistanceMatching/AnimDistanceMatching.uplugin" 205
-"../../../Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin" 206
-"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 207
-"../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin" 208
-"../../../Engine/Plugins/Runtime/Firebase/Firebase.uplugin" 209
-"../../../Engine/Plugins/Tests/PythonAutomationTest/PythonAutomationTest.uplugin" 210
-"../../../Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin" 211
-"../../../Engine/Plugins/VirtualProduction/DataCharts/DataCharts.uplugin" 212
-"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 213
-"../../../Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin" 214
-"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/CameraCalibrationCore.uplugin" 215
-"../../../Engine/Plugins/VirtualProduction/CameraCalibration/CameraCalibration.uplugin" 216
-"../../../Engine/Plugins/Runtime/GoogleCloudMessaging/GoogleCloudMessaging.uplugin" 217
-"../../../Engine/Plugins/VirtualProduction/LevelSnapshots/LevelSnapshots.uplugin" 218
-"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin" 219
-"../../../Engine/Plugins/VirtualProduction/LiveLinkLens/LiveLinkLens.uplugin" 220
-"../../../Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin" 221
-"../../../Engine/Plugins/VirtualProduction/LiveLinkMasterLockit/LiveLinkMasterLockit.uplugin" 222
-"../../../Engine/Plugins/VirtualProduction/LiveLinkFreeD/LiveLinkFreeD.uplugin" 223
-"../../../Engine/Plugins/VirtualProduction/ICVFX/ICVFX.uplugin" 224
-"../../../Engine/Plugins/VirtualProduction/LiveLinkVRPN/LiveLinkVRPN.uplugin" 225
-"../../../Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin" 226
-"../../../Engine/Plugins/VirtualProduction/LiveLinkPrestonMDR/LiveLinkPrestonMDR.uplugin" 227
-"../../../Engine/Plugins/VirtualProduction/MultiUserTakes/MultiUserTakes.uplugin" 228
-"../../../Engine/Plugins/Runtime/GeoReferencing/GeoReferencing.uplugin" 229
-"../../../Engine/Plugins/VirtualProduction/LiveLinkXR/LiveLinkXR.uplugin" 230
-"../../../Engine/Plugins/Runtime/HDRIBackdrop/HDRIBackdrop.uplugin" 231
-"../../../Engine/Plugins/VirtualProduction/RemoteControlInterception/RemoteControlInterception.uplugin" 232
-"../../../Engine/Plugins/Runtime/DataRegistry/DataRegistry.uplugin" 233
-"../../../Engine/Plugins/Runtime/HairStrands/HairStrands.uplugin" 234
-"../../../Engine/Plugins/Runtime/HPMotionController/HPMotionController.uplugin" 235
-"../../../Engine/Plugins/Runtime/GooglePAD/GooglePAD.uplugin" 236
-"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 237
-"../../../Engine/Plugins/VirtualProduction/RemoteControlWebInterface/RemoteControlWebInterface.uplugin" 238
-"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 239
-"../../../Engine/Plugins/Runtime/HTTPChunkInstaller/HTTPChunkInstaller.uplugin" 240
-"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolDMX/RemoteControlProtocolDMX.uplugin" 241
-"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolOSC/RemoteControlProtocolOSC.uplugin" 242
-"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 243
-"../../../Engine/Plugins/Runtime/MicrosoftSpatialAudio/MicroSoftSpatialSound.uplugin" 244
-"../../../Engine/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin" 245
-"../../../Engine/Plugins/Runtime/LocationServicesAndroidImpl/LocationServicesAndroidImpl.uplugin" 246
-"../../../Engine/Plugins/VirtualProduction/nDisplaySupportForLevelSnapshots/nDisplaySupportForLevelSnapshots.uplugin" 247
-"../../../Engine/Plugins/VirtualProduction/TimedDataMonitor/TimedDataMonitor.uplugin" 248
-"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin" 249
-"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolMIDI/RemoteControlProtocolMIDI.uplugin" 250
-"../../../Engine/Plugins/VirtualProduction/Switchboard/Switchboard.uplugin" 251
-"../../../Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin" 252
-"../../../Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin" 253
-"../../../Engine/Plugins/Runtime/NetworkPrediction/NetworkPrediction.uplugin" 254
-"../../../Engine/Plugins/VirtualProduction/RemoteControl/RemoteControl.uplugin" 255
-"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin" 256
-"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 257
-"../../../Engine/Plugins/Runtime/NetworkPredictionInsights/NetworkPredictionInsights.uplugin" 258
-"../../../Engine/Plugins/VirtualProduction/Takes/Takes.uplugin" 259
-"../../../Engine/Plugins/Runtime/OptionalMobileFeaturesBPLibrary/OptionalMobileFeaturesBPLibrary.uplugin" 260
-"../../../Engine/Plugins/Runtime/OpenXRHandTracking/OpenXRHandTracking.uplugin" 261
-"../../../Engine/Plugins/Runtime/LiveLinkOvernDisplay/LiveLinkOverNDisplay.uplugin" 262
-"../../../Engine/Plugins/Runtime/MixedRealityCaptureFramework/MixedRealityCaptureFramework.uplugin" 263
-"../../../Engine/Plugins/VirtualProduction/StageMonitoring/StageMonitoring.uplugin" 264
-"../../../Engine/Plugins/Runtime/OSC/OSC.uplugin" 265
-"../../../Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin" 266
-"../../../Engine/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin" 267
-"../../../Engine/Plugins/Runtime/OpenXR/OpenXR.uplugin" 268
-"../../../Engine/Plugins/Runtime/PreLoadScreenMoviePlayer/PreLoadScreenMoviePlayer.uplugin" 269
-"../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin" 270
-"../../../Engine/Plugins/Runtime/PropertyAccess/PropertyAccessEditor.uplugin" 271
-"../../../Engine/Plugins/Runtime/OpenXREyeTracker/OpenXREyeTracker.uplugin" 272
-"../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin" 273
-"../../../Engine/Plugins/Runtime/ReplicationGraph/ReplicationGraph.uplugin" 274
-"../../../Engine/Plugins/Runtime/nDisplay/nDisplay.uplugin" 275
-"../../../Engine/Plugins/Runtime/ResonanceAudio/ResonanceAudio.uplugin" 276
-"../../../Engine/Plugins/Runtime/LocationServicesIOSImpl/LocationServicesIOSImpl.uplugin" 277
-"../../../Engine/Plugins/Runtime/SoundUtilities/SoundUtilities.uplugin" 278
-"../../../Engine/Plugins/Runtime/ChunkDownloader/ChunkDownloader.uplugin" 279
-"../../../Engine/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin" 280
-"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 281
-"../../../Engine/Plugins/Runtime/WebBrowserNativeProxy/WebBrowserNativeProxy.uplugin" 282
-"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 283
-"../../../Engine/Plugins/Runtime/OSCModulationMixing/OSCModulationMixing.uplugin" 284
-"../../../Engine/Plugins/Runtime/WarpUtils/WarpUtils.uplugin" 285
-"../../../Engine/Plugins/VirtualProduction/CompositePlane/CompositePlane.uplugin" 286
-"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 287
-"../../../Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin" 288
-"../../../Engine/Plugins/Editor/AssetSearch/AssetSearch.uplugin" 289
-"../../../Engine/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin" 290
-"../../../Engine/Plugins/Runtime/TimeSynth/TimeSynth.uplugin" 291
-"../../../Engine/Plugins/Runtime/SunPosition/SunPosition.uplugin" 292
-"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 293
-"../../../Engine/Plugins/Runtime/OpenXRMsftHandInteraction/OpenXRMsftHandInteraction.uplugin" 294
-"../../../Engine/Plugins/Runtime/SoundCueTemplates/SoundCueTemplates.uplugin" 295
-"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin" 296
-"../../../Engine/Plugins/Editor/DataValidation/DataValidation.uplugin" 297
-"../../../Engine/Plugins/Runtime/SoundFields/SoundFields.uplugin" 298
-"../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin" 299
-"../../../Engine/Plugins/Runtime/PostSplashScreen/PostSplashScreen.uplugin" 300
-"../../../Engine/Plugins/Editor/GeometryMode/GeometryMode.uplugin" 301
-"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin" 302
-"../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin" 303
-"../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin" 304
-"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 305
-"../../../Engine/Plugins/Runtime/Spatialization/Spatialization.uplugin" 306
-"../../../Engine/Plugins/VirtualProduction/LiveLinkCamera/LiveLinkCamera.uplugin" 307
-"../../../Engine/Plugins/Editor/CurveEditorTools/CurveEditorTools.uplugin" 308
-"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 309
-"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 310
-"../../../Engine/Plugins/Runtime/WindowsMixedReality/WindowsMixedReality.uplugin" 311
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 312
-"../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin" 313
-"../../../Engine/Plugins/Editor/StylusInput/StylusInput.uplugin" 314
-"../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin" 315
-"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 316
-"../../../Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin" 317
-"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 318
-"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/CLionSourceCodeAccess.uplugin" 319
-"../../../Engine/Plugins/Editor/GLTFImporter/GLTFImporter.uplugin" 320
-"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 321
-"../../../Engine/Plugins/Developer/PlasticSourceControl/PlasticSourceControl.uplugin" 322
-"../../../Engine/Plugins/Developer/PixWinPlugin/PixWinPlugin.uplugin" 323
-"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 324
-"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 325
-"../../../Engine/Plugins/Editor/MaterialAnalyzer/MaterialAnalyzer.uplugin" 326
-"../../../Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin" 327
-"../../../Engine/Plugins/Developer/PropertyAccessNode/PropertyAccessNode.uplugin" 328
-"../../../Engine/Plugins/Runtime/TextureShare/TextureShare.uplugin" 329
-"../../../Engine/Plugins/Developer/RiderSourceCodeAccess/RiderSourceCodeAccess.uplugin" 330
-"../../../Engine/Plugins/Runtime/NetworkPredictionExtras/NetworkPredictionExtras.uplugin" 331
-"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 332
-"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 333
-"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 334
-"../../../Engine/Plugins/Experimental/AR/PointCloud/PointCloud.uplugin" 335
-"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 336
-"../../../Engine/Plugins/Experimental/Enterprise/DatasmithRuntime/DatasmithRuntime.uplugin" 337
-"../../../Engine/Plugins/Compositing/LensDistortion/LensDistortion.uplugin" 338
-"../../../Engine/Plugins/Experimental/Enterprise/DataprepGeometryOperations/DataprepGeometryOperations.uplugin" 339
-"../../../Engine/Plugins/Compositing/OpenColorIO/OpenColorIO.uplugin" 340
-"../../../Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin" 341
-"../../../Engine/Plugins/Developer/RenderDocPlugin/RenderDocPlugin.uplugin" 342
-"../../../Engine/Plugins/Developer/TraceDataFiltering/TraceDataFilters.uplugin" 343
-"../../../Engine/Plugins/Online/VoiceChat/EOSVoiceChat/EOSVoiceChat.uplugin" 344
-"../../../Engine/Plugins/Online/VoiceChat/VivoxVoiceChat/VivoxVoiceChat.uplugin" 345
-"../../../Engine/Plugins/Developer/TextureFormatOodle/TextureFormatOodle.uplugin" 346
-"../../../Engine/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin" 347
-"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 348
-"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 349
-"../../../Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin" 350
-"../../../Engine/Plugins/Online/VoiceChat/VoiceChat/VoiceChat.uplugin" 351
-"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARCore/AzureSpatialAnchorsForARCore.uplugin" 352
-"../../../Engine/Plugins/Runtime/Analytics/Adjust/Adjust.uplugin" 353
-"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARKit/AzureSpatialAnchorsForARKit.uplugin" 354
-"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchors/AzureSpatialAnchors.uplugin" 355
-"../../../Engine/Plugins/Runtime/Database/ADOSupport/ADOSupport.uplugin" 356
-"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 357
-"../../../Engine/Plugins/Runtime/Database/DatabaseSupport/DatabaseSupport.uplugin" 358
-"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 359
-"../../../Engine/Plugins/Runtime/Database/RemoteDatabaseSupport/RemoteDatabaseSupport.uplugin" 360
-"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 361
-"../../../Engine/Plugins/VirtualProduction/DMX/DMXEngine/DMXEngine.uplugin" 362
-"../../../Engine/Plugins/Runtime/Database/SQLiteSupport/SQLiteSupport.uplugin" 363
-"../../../Engine/Plugins/VirtualProduction/DMX/DMXPixelMapping/DMXPixelMapping.uplugin" 364
-"../../../Engine/Plugins/Runtime/MeshReconstruction/DummyMeshReconstructor/DummyMeshReconstructor.uplugin" 365
-"../../../Engine/Plugins/VirtualProduction/DMX/DMXFixtures/DMXFixtures.uplugin" 366
-"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin" 367
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/ARUtilities.uplugin" 368
-"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRTransition2D/GoogleVRTransition2D.uplugin" 369
-"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/VisualStudioCodeSourceCodeAccess.uplugin" 370
-"../../../Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin" 371
-"../../../Engine/Plugins/Runtime/Nvidia/Reflex/Reflex.uplugin" 372
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin" 373
-"../../../Engine/Plugins/Runtime/Oculus/OculusAudio/OculusAudio.uplugin" 374
-"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 375
-"../../../Engine/Plugins/Runtime/Database/SQLiteCore/SQLiteCore.uplugin" 376
-"../../../Engine/Plugins/Runtime/PacketHandlers/AESGCMHandlerComponent/AESGCMHandlerComponent.uplugin" 377
-"../../../Engine/Plugins/Runtime/PacketHandlers/DTLSHandlerComponent/DTLSHandlerComponent.uplugin" 378
-"../../../Engine/Plugins/Runtime/Steam/SteamAudio/SteamAudio.uplugin" 379
-"../../../Engine/Plugins/VirtualProduction/DMX/DMXDisplayCluster/DMXDisplayCluster.uplugin" 380
-"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 381
-"../../../Engine/Plugins/Runtime/Windows/WinDualShock/WinDualShock.uplugin" 382
-"../../../Engine/Plugins/Experimental/VirtualProduction/LedWallCalibration/LedWallCalibration.uplugin" 383
-"../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin" 384
+"../../../Engine/Plugins/FX/CascadeToNiagaraConverter/CascadeToNiagaraConverter.uplugin" 153
+"../../../Engine/Plugins/Lumin/LuminPlatformFeatures/LuminPlatformFeatures.uplugin" 154
+"../../../Engine/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin" 155
+"../../../Engine/Plugins/Experimental/WebSocketNetworking/WebSocketNetworking.uplugin" 156
+"../../../Engine/Plugins/Lumin/MagicLeapBLE/MagicLeapBLE.uplugin" 157
+"../../../Engine/Plugins/Lumin/MagicLeapCamera/MagicLeapCamera.uplugin" 158
+"../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin" 159
+"../../../Engine/Plugins/Experimental/VirtualProductionUtilities/VirtualProductionUtilities.uplugin" 160
+"../../../Engine/Plugins/Lumin/MagicLeapDispatch/MagicLeapDispatch.uplugin" 161
+"../../../Engine/Plugins/Lumin/MagicLeapLocation/MagicLeapLocation.uplugin" 162
+"../../../Engine/Plugins/Lumin/MagicLeap/MagicLeap.uplugin" 163
+"../../../Engine/Plugins/Lumin/MagicLeapConnections/MagicLeapConnections.uplugin" 164
+"../../../Engine/Plugins/Experimental/Shotgun/Shotgun.uplugin" 165
+"../../../Engine/Plugins/Lumin/MagicLeapContacts/MagicLeapContacts.uplugin" 166
+"../../../Engine/Plugins/Lumin/MagicLeapMusicService/MagicLeapMusicService.uplugin" 167
+"../../../Engine/Plugins/Lumin/MagicLeapNetworking/MagicLeapNetworking.uplugin" 168
+"../../../Engine/Plugins/Lumin/MagicLeapMovement/MagicLeapMovement.uplugin" 169
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin" 170
+"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin" 171
+"../../../Engine/Plugins/Lumin/MagicLeapSharedFile/MagicLeapSharedFile.uplugin" 172
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 173
+"../../../Engine/Plugins/Lumin/MagicLeapMedia/MagicLeapMedia.uplugin" 174
+"../../../Engine/Plugins/Media/AndroidCamera/AndroidCamera.uplugin" 175
+"../../../Engine/Plugins/Media/AjaMedia/AjaMedia.uplugin" 176
+"../../../Engine/Plugins/Media/AudioCaptureTimecodeProvider/AudioCaptureTimecodeProvider.uplugin" 177
+"../../../Engine/Plugins/Lumin/MLSDK/MLSDK.uplugin" 178
+"../../../Engine/Plugins/Lumin/MagicLeapTablet/MagicLeapTablet.uplugin" 179
+"../../../Engine/Plugins/Media/AvidDNxMedia/AvidDNxMedia.uplugin" 180
+"../../../Engine/Plugins/Media/AppleProResMedia/AppleProResMedia.uplugin" 181
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 182
+"../../../Engine/Plugins/Media/BinkMedia/BinkMedia.uplugin" 183
+"../../../Engine/Plugins/Media/BlackmagicMedia/BlackmagicMedia.uplugin" 184
+"../../../Engine/Plugins/Media/ElectraCDM/ElectraCDM.uplugin" 185
+"../../../Engine/Plugins/Media/ImgMedia/ImgMedia.uplugin" 186
+"../../../Engine/Plugins/Media/HardwareEncoders/HardwareEncoders.uplugin" 187
+"../../../Engine/Plugins/Media/HAPMedia/HAPMedia.uplugin" 188
+"../../../Engine/Plugins/Media/LinearTimecode/LinearTimecode.uplugin" 189
+"../../../Engine/Plugins/Media/HLMedia/HLMedia.uplugin" 190
+"../../../Engine/Plugins/Media/MediaFrameworkUtilities/MediaFrameworkUtilities.uplugin" 191
+"../../../Engine/Plugins/Media/MediaCompositing/MediaCompositing.uplugin" 192
+"../../../Engine/Plugins/Media/MediaMovieStreamer/MediaMovieStreamer.uplugin" 193
+"../../../Engine/Plugins/Media/MfMedia/MfMedia.uplugin" 194
+"../../../Engine/Plugins/Media/ElectraPlayer/ElectraPlayer.uplugin" 195
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 196
+"../../../Engine/Plugins/Media/ElectraUtil/ElectraUtil.uplugin" 197
+"../../../Engine/Plugins/Media/TimecodeSynchronizer/TimecodeSynchronizer.uplugin" 198
+"../../../Engine/Plugins/Media/WebMMedia/WebMMedia.uplugin" 199
+"../../../Engine/Plugins/Media/MediaIOFramework/MediaIOFramework.uplugin" 200
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 201
+"../../../Engine/Plugins/Importers/USDImporter/USDImporter.uplugin" 202
+"../../../Engine/Plugins/Importers/AlembicHairImporter/AlembicHairImporter.uplugin" 203
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 204
+"../../../Engine/Plugins/Media/PixelStreaming/PixelStreaming.uplugin" 205
+"../../../Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin" 206
+"../../../Engine/Plugins/Importers/USDMultiUser/USDMultiUser.uplugin" 207
+"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin" 208
+"../../../Engine/Plugins/MovieScene/CustomizableSequencerTracks/CustomizableSequencerTracks.uplugin" 209
+"../../../Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin" 210
+"../../../Engine/Plugins/MovieScene/MoviePipelineMaskRenderPass/MoviePipelineMaskRenderPass.uplugin" 211
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 212
+"../../../Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin" 213
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 214
+"../../../Engine/Plugins/MovieScene/MovieRenderPipeline/MovieRenderPipeline.uplugin" 215
+"../../../Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin" 216
+"../../../Engine/Plugins/MovieScene/ReplayTracks/ReplayTracks.uplugin" 217
+"../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin" 218
+"../../../Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin" 219
+"../../../Engine/Plugins/Online/OnlineSubsystemEOS/OnlineSubsystemEOS.uplugin" 220
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 221
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin" 222
+"../../../Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin" 223
+"../../../Engine/Plugins/Online/OnlineSubsystemGoogle/OnlineSubsystemGoogle.uplugin" 224
+"../../../Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin" 225
+"../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin" 226
+"../../../Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin" 227
+"../../../Engine/Plugins/Online/OnlineSubsystemTwitch/OnlineSubsystemTwitch.uplugin" 228
+"../../../Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin" 229
+"../../../Engine/Plugins/Performance/PerformanceMonitor/PerformanceMonitor.uplugin" 230
+"../../../Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin" 231
+"../../../Engine/Plugins/Online/WebAuth/WebAuth.uplugin" 232
+"../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin" 233
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 234
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 235
+"../../../Engine/Plugins/Runtime/AnimDistanceMatching/AnimDistanceMatching.uplugin" 236
+"../../../Engine/Plugins/Online/EOSShared/EOSShared.uplugin" 237
+"../../../Engine/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin" 238
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 239
+"../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin" 240
+"../../../Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin" 241
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 242
+"../../../Engine/Plugins/Runtime/GoogleCloudMessaging/GoogleCloudMessaging.uplugin" 243
+"../../../Engine/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin" 244
+"../../../Engine/Plugins/Runtime/HairStrands/HairStrands.uplugin" 245
+"../../../Engine/Plugins/Runtime/AnimationBudgetAllocator/AnimationBudgetAllocator.uplugin" 246
+"../../../Engine/Plugins/Online/OnlineSubsystemApple/OnlineSubsystemApple.uplugin" 247
+"../../../Engine/Plugins/Runtime/Firebase/Firebase.uplugin" 248
+"../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin" 249
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 250
+"../../../Engine/Plugins/Runtime/HDRIBackdrop/HDRIBackdrop.uplugin" 251
+"../../../Engine/Plugins/Runtime/HPMotionController/HPMotionController.uplugin" 252
+"../../../Engine/Plugins/Runtime/AudioModulation/AudioModulation.uplugin" 253
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 254
+"../../../Engine/Plugins/Runtime/IOSReplayKit/IOSReplayKit.uplugin" 255
+"../../../Engine/Plugins/Runtime/LocationServicesAndroidImpl/LocationServicesAndroidImpl.uplugin" 256
+"../../../Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin" 257
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 258
+"../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin" 259
+"../../../Engine/Plugins/Runtime/LocationServicesIOSImpl/LocationServicesIOSImpl.uplugin" 260
+"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin" 261
+"../../../Engine/Plugins/Runtime/MicrosoftSpatialAudio/MicroSoftSpatialSound.uplugin" 262
+"../../../Engine/Plugins/Runtime/GeoReferencing/GeoReferencing.uplugin" 263
+"../../../Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin" 264
+"../../../Engine/Plugins/Runtime/MixedRealityCaptureFramework/MixedRealityCaptureFramework.uplugin" 265
+"../../../Engine/Plugins/Runtime/NetworkPrediction/NetworkPrediction.uplugin" 266
+"../../../Engine/Plugins/Runtime/GooglePAD/GooglePAD.uplugin" 267
+"../../../Engine/Plugins/Runtime/nDisplay/nDisplay.uplugin" 268
+"../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin" 269
+"../../../Engine/Plugins/Runtime/HTTPChunkInstaller/HTTPChunkInstaller.uplugin" 270
+"../../../Engine/Plugins/Runtime/OpenXR/OpenXR.uplugin" 271
+"../../../Engine/Plugins/Runtime/ActorLayerUtilities/ActorLayerUtilities.uplugin" 272
+"../../../Engine/Plugins/Runtime/OpenXRMsftHandInteraction/OpenXRMsftHandInteraction.uplugin" 273
+"../../../Engine/Plugins/Runtime/LiveLinkOvernDisplay/LiveLinkOverNDisplay.uplugin" 274
+"../../../Engine/Plugins/Runtime/OSC/OSC.uplugin" 275
+"../../../Engine/Plugins/Online/OnlineSubsystemTencent/OnlineSubsystemTencent.uplugin" 276
+"../../../Engine/Plugins/Runtime/NetworkPredictionInsights/NetworkPredictionInsights.uplugin" 277
+"../../../Engine/Plugins/Runtime/OpenXREyeTracker/OpenXREyeTracker.uplugin" 278
+"../../../Engine/Plugins/Runtime/NetworkPredictionExtras/NetworkPredictionExtras.uplugin" 279
+"../../../Engine/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin" 280
+"../../../Engine/Plugins/Runtime/OptionalMobileFeaturesBPLibrary/OptionalMobileFeaturesBPLibrary.uplugin" 281
+"../../../Engine/Plugins/Runtime/PostSplashScreen/PostSplashScreen.uplugin" 282
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 283
+"../../../Engine/Plugins/Runtime/PreLoadScreenMoviePlayer/PreLoadScreenMoviePlayer.uplugin" 284
+"../../../Engine/Plugins/Runtime/ReplicationGraph/ReplicationGraph.uplugin" 285
+"../../../Engine/Plugins/Runtime/OSCModulationMixing/OSCModulationMixing.uplugin" 286
+"../../../Engine/Plugins/Runtime/ResonanceAudio/ResonanceAudio.uplugin" 287
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 288
+"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin" 289
+"../../../Engine/Plugins/Runtime/PropertyAccess/PropertyAccessEditor.uplugin" 290
+"../../../Engine/Plugins/Runtime/SoundFields/SoundFields.uplugin" 291
+"../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin" 292
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 293
+"../../../Engine/Plugins/Runtime/ChunkDownloader/ChunkDownloader.uplugin" 294
+"../../../Engine/Plugins/Runtime/SunPosition/SunPosition.uplugin" 295
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 296
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 297
+"../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin" 298
+"../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin" 299
+"../../../Engine/Plugins/Runtime/TextureShare/TextureShare.uplugin" 300
+"../../../Engine/Plugins/Runtime/OpenXRHandTracking/OpenXRHandTracking.uplugin" 301
+"../../../Engine/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin" 302
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 303
+"../../../Engine/Plugins/Slate/SlateInsights/SlateInsights.uplugin" 304
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 305
+"../../../Engine/Plugins/Tests/EditorTests/EditorTests.uplugin" 306
+"../../../Engine/Plugins/Runtime/SoundUtilities/SoundUtilities.uplugin" 307
+"../../../Engine/Plugins/Tests/PythonAutomationTest/PythonAutomationTest.uplugin" 308
+"../../../Engine/Plugins/Runtime/WebBrowserNativeProxy/WebBrowserNativeProxy.uplugin" 309
+"../../../Engine/Plugins/Tests/RHITests/RHITests.uplugin" 310
+"../../../Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin" 311
+"../../../Engine/Plugins/VirtualProduction/CameraCalibration/CameraCalibration.uplugin" 312
+"../../../Engine/Plugins/VirtualProduction/DataCharts/DataCharts.uplugin" 313
+"../../../Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin" 314
+"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/CameraCalibrationCore.uplugin" 315
+"../../../Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin" 316
+"../../../Engine/Plugins/Runtime/TimeSynth/TimeSynth.uplugin" 317
+"../../../Engine/Plugins/VirtualProduction/LevelSnapshots/LevelSnapshots.uplugin" 318
+"../../../Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin" 319
+"../../../Engine/Plugins/VirtualProduction/LiveLinkFreeD/LiveLinkFreeD.uplugin" 320
+"../../../Engine/Plugins/Runtime/Spatialization/Spatialization.uplugin" 321
+"../../../Engine/Plugins/Runtime/DataRegistry/DataRegistry.uplugin" 322
+"../../../Engine/Plugins/Runtime/SoundCueTemplates/SoundCueTemplates.uplugin" 323
+"../../../Engine/Plugins/VirtualProduction/ICVFX/ICVFX.uplugin" 324
+"../../../Engine/Plugins/VirtualProduction/LiveLinkPrestonMDR/LiveLinkPrestonMDR.uplugin" 325
+"../../../Engine/Plugins/VirtualProduction/nDisplaySupportForLevelSnapshots/nDisplaySupportForLevelSnapshots.uplugin" 326
+"../../../Engine/Plugins/VirtualProduction/RemoteControl/RemoteControl.uplugin" 327
+"../../../Engine/Plugins/VirtualProduction/LiveLinkXR/LiveLinkXR.uplugin" 328
+"../../../Engine/Plugins/VirtualProduction/RemoteControlInterception/RemoteControlInterception.uplugin" 329
+"../../../Engine/Plugins/VirtualProduction/CompositePlane/CompositePlane.uplugin" 330
+"../../../Engine/Plugins/VirtualProduction/Switchboard/Switchboard.uplugin" 331
+"../../../Engine/Plugins/VirtualProduction/MultiUserTakes/MultiUserTakes.uplugin" 332
+"../../../Engine/Plugins/VirtualProduction/StageMonitoring/StageMonitoring.uplugin" 333
+"../../../Engine/Plugins/VirtualProduction/Takes/Takes.uplugin" 334
+"../../../Engine/Plugins/VirtualProduction/LiveLinkCamera/LiveLinkCamera.uplugin" 335
+"../../../Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin" 336
+"../../../Engine/Plugins/VirtualProduction/LiveLinkLens/LiveLinkLens.uplugin" 337
+"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolOSC/RemoteControlProtocolOSC.uplugin" 338
+"../../../Engine/Plugins/Runtime/WarpUtils/WarpUtils.uplugin" 339
+"../../../Engine/Plugins/Editor/AssetSearch/AssetSearch.uplugin" 340
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/ContentBrowserAssetDataSource.uplugin" 341
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 342
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/ContentBrowserFileDataSource.uplugin" 343
+"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolDMX/RemoteControlProtocolDMX.uplugin" 344
+"../../../Engine/Plugins/Developer/Concert/DisasterRecoveryClient/DisasterRecoveryClient.uplugin" 345
+"../../../Engine/Plugins/Developer/Concert/MultiUserClient/MultiUserClient.uplugin" 346
+"../../../Engine/Plugins/Experimental/Enterprise/DataprepGeometryOperations/DataprepGeometryOperations.uplugin" 347
+"../../../Engine/Plugins/Experimental/Enterprise/DatasmithRuntime/DatasmithRuntime.uplugin" 348
+"../../../Engine/Plugins/VirtualProduction/LiveLinkMasterLockit/LiveLinkMasterLockit.uplugin" 349
+"../../../Engine/Plugins/Experimental/VirtualProduction/LedWallCalibration/LedWallCalibration.uplugin" 350
+"../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin" 351
+"../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin" 352
+"../../../Engine/Plugins/Online/VoiceChat/EOSVoiceChat/EOSVoiceChat.uplugin" 353
+"../../../Engine/Plugins/Online/VoiceChat/VoiceChat/VoiceChat.uplugin" 354
+"../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolMIDI/RemoteControlProtocolMIDI.uplugin" 355
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 356
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 357
+"../../../Engine/Plugins/VirtualProduction/TimedDataMonitor/TimedDataMonitor.uplugin" 358
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin" 359
+"../../../Engine/Plugins/Runtime/Analytics/Adjust/Adjust.uplugin" 360
+"../../../Engine/Plugins/Developer/Concert/ConcertMain/ConcertMain.uplugin" 361
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/ARUtilities.uplugin" 362
+"../../../Engine/Plugins/Runtime/WindowsMixedReality/WindowsMixedReality.uplugin" 363
+"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARKit/AzureSpatialAnchorsForARKit.uplugin" 364
+"../../../Engine/Plugins/VirtualProduction/LiveLinkVRPN/LiveLinkVRPN.uplugin" 365
+"../../../Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin" 366
+"../../../Engine/Plugins/Online/VoiceChat/VivoxVoiceChat/VivoxVoiceChat.uplugin" 367
+"../../../Engine/Plugins/Runtime/Database/DatabaseSupport/DatabaseSupport.uplugin" 368
+"../../../Engine/Plugins/VirtualProduction/RemoteControlWebInterface/RemoteControlWebInterface.uplugin" 369
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin" 370
+"../../../Engine/Plugins/Runtime/Database/RemoteDatabaseSupport/RemoteDatabaseSupport.uplugin" 371
+"../../../Engine/Plugins/Runtime/Database/SQLiteCore/SQLiteCore.uplugin" 372
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRTransition2D/GoogleVRTransition2D.uplugin" 373
+"../../../Engine/Plugins/Experimental/AR/PointCloud/PointCloud.uplugin" 374
+"../../../Engine/Plugins/Runtime/MeshReconstruction/DummyMeshReconstructor/DummyMeshReconstructor.uplugin" 375
+"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARCore/AzureSpatialAnchorsForARCore.uplugin" 376
+"../../../Engine/Plugins/Runtime/Nvidia/Reflex/Reflex.uplugin" 377
+"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForWMR/AzureSpatialAnchorsForWMR.uplugin" 378
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin" 379
+"../../../Engine/Plugins/Runtime/PacketHandlers/AESGCMHandlerComponent/AESGCMHandlerComponent.uplugin" 380
+"../../../Engine/Plugins/Runtime/Steam/SteamShared/SteamShared.uplugin" 381
+"../../../Engine/Plugins/Runtime/Database/SQLiteSupport/SQLiteSupport.uplugin" 382
+"../../../Engine/Plugins/Runtime/Steam/SteamSockets/SteamSockets.uplugin" 383
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 384
 "../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 385
-"../../../Engine/Plugins/Runtime/IOSReplayKit/IOSReplayKit.uplugin" 386
-"../../../Engine/Plugins/Runtime/XR/XRVisualization/XRVisualization.uplugin" 387
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/ContentBrowserAssetDataSource.uplugin" 388
-"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 389
-"../../../Engine/Plugins/Developer/Concert/DisasterRecoveryClient/DisasterRecoveryClient.uplugin" 390
-"../../../Engine/Plugins/Runtime/PacketHandlers/AESHandlerComponent/AESHandlerComponent.uplugin" 391
-"../../../Engine/Plugins/Developer/Concert/ConcertMain/ConcertMain.uplugin" 392
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKitFaceSupport/AppleARKitFaceSupport.uplugin" 393
-"../../../Engine/Plugins/Runtime/Steam/SteamShared/SteamShared.uplugin" 394
-"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin" 395
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/AppleARKit.uplugin" 396
-"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForWMR/AzureSpatialAnchorsForWMR.uplugin" 397
-"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/ConcertSyncCore.uplugin" 398
-"../../../Engine/Plugins/Developer/TraceSourceFiltering/TraceSourceFilters.uplugin" 399
-"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncTest/ConcertSyncTest.uplugin" 400
-"../../../Engine/Plugins/Developer/Concert/MultiUserClient/MultiUserClient.uplugin" 401
-"../../../Engine/Plugins/Runtime/Steam/SteamSockets/SteamSockets.uplugin" 402
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/ContentBrowserClassDataSource.uplugin" 403
-"../../../Engine/Plugins/Runtime/Oculus/OculusOpenXR/OculusOpenXR.uplugin" 404
-"../../../Engine/Plugins/Runtime/AR/Google/GoogleARCoreServices/GoogleARCoreServices.uplugin" 405
-"../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin" 406
-"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncServer/ConcertSyncServer.uplugin" 407
-"../../../Engine/Plugins/Runtime/AR/Google/GoogleARCore/GoogleARCore.uplugin" 408
-"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 409
-"../../../Engine/Plugins/VirtualProduction/DMX/DMXProtocol/DMXProtocol.uplugin" 410
-"../../../Engine/Plugins/Runtime/AR/Microsoft/HoloLensAR/HoloLensAR.uplugin" 411
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/ContentBrowserFileDataSource.uplugin" 412
-"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/ConcertSyncClient.uplugin" 413
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 386
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin" 387
+"../../../Engine/Plugins/Runtime/Windows/WinDualShock/WinDualShock.uplugin" 388
+"../../../Engine/Plugins/Runtime/XR/XRVisualization/XRVisualization.uplugin" 389
+"../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchors/AzureSpatialAnchors.uplugin" 390
+"../../../Engine/Plugins/VirtualProduction/DMX/DMXDisplayCluster/DMXDisplayCluster.uplugin" 391
+"../../../Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin" 392
+"../../../Engine/Plugins/VirtualProduction/DMX/DMXPixelMapping/DMXPixelMapping.uplugin" 393
+"../../../Engine/Plugins/VirtualProduction/DMX/DMXFixtures/DMXFixtures.uplugin" 394
+"../../../Engine/Plugins/VirtualProduction/DMX/DMXProtocol/DMXProtocol.uplugin" 395
+"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/ConcertSyncCore.uplugin" 396
+"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/ConcertSyncClient.uplugin" 397
+"../../../Engine/Plugins/Runtime/Oculus/OculusOpenXR/OculusOpenXR.uplugin" 398
+"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncTest/ConcertSyncTest.uplugin" 399
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/AppleARKit.uplugin" 400
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/ContentBrowserClassDataSource.uplugin" 401
+"../../../Engine/Plugins/Runtime/AR/Microsoft/HoloLensAR/HoloLensAR.uplugin" 402
+"../../../Engine/Plugins/Runtime/Database/ADOSupport/ADOSupport.uplugin" 403
+"../../../Engine/Plugins/Runtime/Steam/SteamAudio/SteamAudio.uplugin" 404
+"../../../Engine/Plugins/Runtime/PacketHandlers/DTLSHandlerComponent/DTLSHandlerComponent.uplugin" 405
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 406
+"../../../Engine/Plugins/VirtualProduction/DMX/DMXEngine/DMXEngine.uplugin" 407
+"../../../Engine/Plugins/Runtime/Oculus/OculusAudio/OculusAudio.uplugin" 408
+"../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncServer/ConcertSyncServer.uplugin" 409
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKitFaceSupport/AppleARKitFaceSupport.uplugin" 410
+"../../../Engine/Plugins/Runtime/PacketHandlers/AESHandlerComponent/AESHandlerComponent.uplugin" 411
+"../../../Engine/Plugins/Runtime/AR/Google/GoogleARCore/GoogleARCore.uplugin" 412
+"../../../Engine/Plugins/Runtime/AR/Google/GoogleARCoreServices/GoogleARCoreServices.uplugin" 413
 "../../../Engine/Content/Internationalization/icudt64l/cnvalias.icu" 414
 "../../../Engine/Content/Internationalization/icudt64l/res_index.res" 415
 "../../../Engine/Content/Internationalization/icudt64l/plurals.res" 416
@@ -486,16 +486,16 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/Paper2D.ini" 486
 "../../../Engine/Plugins/Animation/LiveLink/Config/BaseLiveLink.ini" 487
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/LiveLink.ini" 488
-"../../../Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini" 489
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/VariantManagerContent.ini" 490
-"../../../Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini" 491
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/Niagara.ini" 492
-"../../../Engine/Plugins/Lumin/MagicLeap/Config/BaseMagicLeap.ini" 493
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MagicLeap.ini" 494
-"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Config/BaseMagicLeapLightEstimation.ini" 495
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MagicLeapLightEstimation.ini" 496
-"../../../Engine/Plugins/Experimental/MotoSynth/Config/BaseMotoSynth.ini" 497
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MotoSynth.ini" 498
+"../../../Engine/Plugins/Experimental/MotoSynth/Config/BaseMotoSynth.ini" 489
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MotoSynth.ini" 490
+"../../../Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini" 491
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/VariantManagerContent.ini" 492
+"../../../Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini" 493
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/Niagara.ini" 494
+"../../../Engine/Plugins/Lumin/MagicLeap/Config/BaseMagicLeap.ini" 495
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MagicLeap.ini" 496
+"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Config/BaseMagicLeapLightEstimation.ini" 497
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/MagicLeapLightEstimation.ini" 498
 "../../../Engine/Plugins/Runtime/PhysXVehicles/Config/BasePhysXVehicles.ini" 499
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Saved/Config/Windows/PhysXVehicles.ini" 500
 "../../../Engine/Plugins/Runtime/PostSplashScreen/Config/BasePostSplashScreen.ini" 501
@@ -507,118 +507,118 @@
 "../../../Engine/Plugins/MeshPainting/Binaries/Win64/UE4Editor.modules" 507
 "../../../Engine/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor.modules" 508
 "../../../Engine/Plugins/XGEController/Binaries/Win64/UE4Editor.modules" 509
-"../../../Engine/Plugins/AI/AISupport/Binaries/Win64/UE4Editor.modules" 510
-"../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules" 511
-"../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor.modules" 512
-"../../../Engine/Plugins/AI/EnvironmentQueryEditor/Binaries/Win64/UE4Editor.modules" 513
-"../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor.modules" 514
-"../../../Engine/Plugins/Cameras/CameraShakePreviewer/Binaries/Win64/UE4Editor.modules" 515
-"../../../Engine/Plugins/Cameras/GameplayCameras/Binaries/Win64/UE4Editor.modules" 516
-"../../../Engine/Plugins/MovieScene/TemplateSequence/Binaries/Win64/UE4Editor.modules" 517
-"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor.modules" 518
-"../../../Engine/Plugins/Compression/OodleData/Binaries/Win64/UE4Editor.modules" 519
-"../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor.modules" 520
-"../../../Engine/Plugins/Enterprise/VariantManagerContent/Binaries/Win64/UE4Editor.modules" 521
-"../../../Engine/Plugins/Developer/AnimationSharing/Binaries/Win64/UE4Editor.modules" 522
-"../../../Engine/Plugins/Runtime/SignificanceManager/Binaries/Win64/UE4Editor.modules" 523
-"../../../Engine/Plugins/Compression/OodleNetwork/Binaries/Win64/UE4Editor.modules" 524
-"../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor.modules" 525
-"../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor.modules" 526
-"../../../Engine/Plugins/Experimental/BackChannel/Binaries/Win64/UE4Editor.modules" 527
-"../../../Engine/Plugins/Experimental/ChaosCloth/Binaries/Win64/UE4Editor.modules" 528
-"../../../Engine/Plugins/Experimental/AutomationUtils/Binaries/Win64/UE4Editor.modules" 529
-"../../../Engine/Plugins/Tests/ScreenshotTools/Binaries/Win64/UE4Editor.modules" 530
-"../../../Engine/Plugins/Experimental/ChaosClothEditor/Binaries/Win64/UE4Editor.modules" 531
-"../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Binaries/Win64/UE4Editor.modules" 532
-"../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor.modules" 533
-"../../../Engine/Plugins/Lumin/MLSDK/Binaries/Win64/UE4Editor.modules" 534
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Binaries/Win64/UE4Editor.modules" 535
-"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Binaries/Win64/UE4Editor.modules" 536
-"../../../Engine/Plugins/Experimental/ChaosEditor/Binaries/Win64/UE4Editor.modules" 537
-"../../../Engine/Plugins/Experimental/PlanarCutPlugin/Binaries/Win64/UE4Editor.modules" 538
-"../../../Engine/Plugins/Runtime/EditableMesh/Binaries/Win64/UE4Editor.modules" 539
-"../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UE4Editor.modules" 540
-"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor.modules" 541
-"../../../Engine/Plugins/Experimental/ChaosNiagara/Binaries/Win64/UE4Editor.modules" 542
-"../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor.modules" 543
-"../../../Engine/Plugins/Experimental/PythonScriptPlugin/Binaries/Win64/UE4Editor.modules" 544
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/Binaries/Win64/UE4Editor.modules" 545
-"../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor.modules" 546
-"../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor.modules" 547
-"../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Win64/UE4Editor.modules" 548
-"../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor.modules" 549
-"../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor.modules" 550
-"../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor.modules" 551
-"../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor.modules" 552
-"../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor.modules" 553
-"../../../Engine/Plugins/Experimental/OpenImageDenoise/Binaries/Win64/UE4Editor.modules" 554
-"../../../Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UE4Editor.modules" 555
-"../../../Engine/Plugins/Experimental/ProxyLODPlugin/Binaries/Win64/UE4Editor.modules" 556
-"../../../Engine/Plugins/Experimental/MotoSynth/Binaries/Win64/UE4Editor.modules" 557
-"../../../Engine/Plugins/Experimental/SkeletalReduction/Binaries/Win64/UE4Editor.modules" 558
-"../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor.modules" 559
-"../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor.modules" 560
-"../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor.modules" 561
-"../../../Engine/Plugins/Portal/LauncherChunkInstaller/Binaries/Win64/UE4Editor.modules" 562
-"../../../Engine/Plugins/Runtime/ActorLayerUtilities/Binaries/Win64/UE4Editor.modules" 563
-"../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor.modules" 564
-"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor.modules" 565
-"../../../Engine/Plugins/Runtime/AppleImageUtils/Binaries/Win64/UE4Editor.modules" 566
-"../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor.modules" 567
-"../../../Engine/Plugins/Runtime/AssetTags/Binaries/Win64/UE4Editor.modules" 568
-"../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor.modules" 569
-"../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor.modules" 570
-"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor.modules" 571
-"../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor.modules" 572
-"../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor.modules" 573
-"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor.modules" 574
-"../../../Engine/Plugins/Runtime/ChunkDownloader/Binaries/Win64/UE4Editor.modules" 575
-"../../../Engine/Plugins/Runtime/GooglePAD/Binaries/Win64/UE4Editor.modules" 576
-"../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor.modules" 577
-"../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor.modules" 578
-"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor.modules" 579
-"../../../Engine/Plugins/Runtime/OpenXR/Binaries/Win64/UE4Editor.modules" 580
-"../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor.modules" 581
-"../../../Engine/Plugins/Runtime/OpenXREyeTracker/Binaries/Win64/UE4Editor.modules" 582
-"../../../Engine/Plugins/Runtime/OpenXRHandTracking/Binaries/Win64/UE4Editor.modules" 583
-"../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor.modules" 584
-"../../../Engine/Plugins/VirtualProduction/Takes/Binaries/Win64/UE4Editor.modules" 585
-"../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor.modules" 586
-"../../../Engine/Plugins/Runtime/PropertyAccess/Binaries/Win64/UE4Editor.modules" 587
-"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor.modules" 588
-"../../../Engine/Plugins/Runtime/SoundFields/Binaries/Win64/UE4Editor.modules" 589
-"../../../Engine/Plugins/Runtime/WebMMoviePlayer/Binaries/Win64/UE4Editor.modules" 590
-"../../../Engine/Plugins/Media/WebMMedia/Binaries/Win64/UE4Editor.modules" 591
-"../../../Engine/Plugins/Runtime/Synthesis/Binaries/Win64/UE4Editor.modules" 592
-"../../../Engine/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor.modules" 593
-"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor.modules" 594
-"../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor.modules" 595
-"../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor.modules" 596
-"../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor.modules" 597
-"../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor.modules" 598
-"../../../Engine/Plugins/Editor/GeometryMode/Binaries/Win64/UE4Editor.modules" 599
-"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor.modules" 600
-"../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor.modules" 601
-"../../../Engine/Plugins/Developer/PluginUtils/Binaries/Win64/UE4Editor.modules" 602
-"../../../Engine/Plugins/Editor/CurveEditorTools/Binaries/Win64/UE4Editor.modules" 603
-"../../../Engine/Plugins/Editor/MaterialAnalyzer/Binaries/Win64/UE4Editor.modules" 604
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor.modules" 605
-"../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor.modules" 606
-"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 607
-"../../../Engine/Plugins/Developer/PlasticSourceControl/Binaries/Win64/UE4Editor.modules" 608
-"../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor.modules" 609
-"../../../Engine/Plugins/Developer/PixWinPlugin/Binaries/Win64/UE4Editor.modules" 610
-"../../../Engine/Plugins/Developer/PropertyAccessNode/Binaries/Win64/UE4Editor.modules" 611
-"../../../Engine/Plugins/Developer/RiderSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 612
-"../../../Engine/Plugins/Developer/TextureFormatOodle/Binaries/Win64/UE4Editor.modules" 613
-"../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor.modules" 614
-"../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor.modules" 615
-"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 616
-"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 617
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor.modules" 618
-"../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor.modules" 619
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/Binaries/Win64/UE4Editor.modules" 620
-"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Binaries/Win64/UE4Editor.modules" 621
+"../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules" 510
+"../../../Engine/Plugins/AI/AISupport/Binaries/Win64/UE4Editor.modules" 511
+"../../../Engine/Plugins/AI/EnvironmentQueryEditor/Binaries/Win64/UE4Editor.modules" 512
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor.modules" 513
+"../../../Engine/Plugins/Cameras/CameraShakePreviewer/Binaries/Win64/UE4Editor.modules" 514
+"../../../Engine/Plugins/Cameras/GameplayCameras/Binaries/Win64/UE4Editor.modules" 515
+"../../../Engine/Plugins/MovieScene/TemplateSequence/Binaries/Win64/UE4Editor.modules" 516
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor.modules" 517
+"../../../Engine/Plugins/Compression/OodleData/Binaries/Win64/UE4Editor.modules" 518
+"../../../Engine/Plugins/Compression/OodleNetwork/Binaries/Win64/UE4Editor.modules" 519
+"../../../Engine/Plugins/Developer/AnimationSharing/Binaries/Win64/UE4Editor.modules" 520
+"../../../Engine/Plugins/Runtime/SignificanceManager/Binaries/Win64/UE4Editor.modules" 521
+"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 522
+"../../../Engine/Plugins/Editor/CurveEditorTools/Binaries/Win64/UE4Editor.modules" 523
+"../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor.modules" 524
+"../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor.modules" 525
+"../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor.modules" 526
+"../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor.modules" 527
+"../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor.modules" 528
+"../../../Engine/Plugins/Editor/MaterialAnalyzer/Binaries/Win64/UE4Editor.modules" 529
+"../../../Engine/Plugins/Editor/GeometryMode/Binaries/Win64/UE4Editor.modules" 530
+"../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor.modules" 531
+"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor.modules" 532
+"../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor.modules" 533
+"../../../Engine/Plugins/Developer/PixWinPlugin/Binaries/Win64/UE4Editor.modules" 534
+"../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor.modules" 535
+"../../../Engine/Plugins/Developer/PluginUtils/Binaries/Win64/UE4Editor.modules" 536
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor.modules" 537
+"../../../Engine/Plugins/Developer/PlasticSourceControl/Binaries/Win64/UE4Editor.modules" 538
+"../../../Engine/Plugins/Developer/PropertyAccessNode/Binaries/Win64/UE4Editor.modules" 539
+"../../../Engine/Plugins/Runtime/PropertyAccess/Binaries/Win64/UE4Editor.modules" 540
+"../../../Engine/Plugins/Developer/RiderSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 541
+"../../../Engine/Plugins/Developer/TextureFormatOodle/Binaries/Win64/UE4Editor.modules" 542
+"../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor.modules" 543
+"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 544
+"../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor.modules" 545
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor.modules" 546
+"../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor.modules" 547
+"../../../Engine/Plugins/Enterprise/VariantManagerContent/Binaries/Win64/UE4Editor.modules" 548
+"../../../Engine/Plugins/Experimental/BackChannel/Binaries/Win64/UE4Editor.modules" 549
+"../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor.modules" 550
+"../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor.modules" 551
+"../../../Engine/Plugins/Experimental/AutomationUtils/Binaries/Win64/UE4Editor.modules" 552
+"../../../Engine/Plugins/Tests/ScreenshotTools/Binaries/Win64/UE4Editor.modules" 553
+"../../../Engine/Plugins/Experimental/ChaosCloth/Binaries/Win64/UE4Editor.modules" 554
+"../../../Engine/Plugins/Experimental/ChaosClothEditor/Binaries/Win64/UE4Editor.modules" 555
+"../../../Engine/Plugins/Experimental/ChaosEditor/Binaries/Win64/UE4Editor.modules" 556
+"../../../Engine/Plugins/Experimental/PlanarCutPlugin/Binaries/Win64/UE4Editor.modules" 557
+"../../../Engine/Plugins/Runtime/EditableMesh/Binaries/Win64/UE4Editor.modules" 558
+"../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UE4Editor.modules" 559
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor.modules" 560
+"../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Binaries/Win64/UE4Editor.modules" 561
+"../../../Engine/Plugins/Experimental/ChaosNiagara/Binaries/Win64/UE4Editor.modules" 562
+"../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor.modules" 563
+"../../../Engine/Plugins/Experimental/PythonScriptPlugin/Binaries/Win64/UE4Editor.modules" 564
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/Binaries/Win64/UE4Editor.modules" 565
+"../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor.modules" 566
+"../../../Engine/Plugins/Experimental/OpenImageDenoise/Binaries/Win64/UE4Editor.modules" 567
+"../../../Engine/Plugins/Experimental/MotoSynth/Binaries/Win64/UE4Editor.modules" 568
+"../../../Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UE4Editor.modules" 569
+"../../../Engine/Plugins/Experimental/ProxyLODPlugin/Binaries/Win64/UE4Editor.modules" 570
+"../../../Engine/Plugins/Experimental/SkeletalReduction/Binaries/Win64/UE4Editor.modules" 571
+"../../../Engine/Plugins/Lumin/MLSDK/Binaries/Win64/UE4Editor.modules" 572
+"../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor.modules" 573
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Binaries/Win64/UE4Editor.modules" 574
+"../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Binaries/Win64/UE4Editor.modules" 575
+"../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Win64/UE4Editor.modules" 576
+"../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor.modules" 577
+"../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor.modules" 578
+"../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor.modules" 579
+"../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor.modules" 580
+"../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor.modules" 581
+"../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor.modules" 582
+"../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor.modules" 583
+"../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor.modules" 584
+"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor.modules" 585
+"../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor.modules" 586
+"../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor.modules" 587
+"../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor.modules" 588
+"../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor.modules" 589
+"../../../Engine/Plugins/Portal/LauncherChunkInstaller/Binaries/Win64/UE4Editor.modules" 590
+"../../../Engine/Plugins/Runtime/ActorLayerUtilities/Binaries/Win64/UE4Editor.modules" 591
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor.modules" 592
+"../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor.modules" 593
+"../../../Engine/Plugins/Runtime/AppleImageUtils/Binaries/Win64/UE4Editor.modules" 594
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor.modules" 595
+"../../../Engine/Plugins/Runtime/AssetTags/Binaries/Win64/UE4Editor.modules" 596
+"../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor.modules" 597
+"../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor.modules" 598
+"../../../Engine/Plugins/Runtime/ChunkDownloader/Binaries/Win64/UE4Editor.modules" 599
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor.modules" 600
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor.modules" 601
+"../../../Engine/Plugins/Runtime/GooglePAD/Binaries/Win64/UE4Editor.modules" 602
+"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor.modules" 603
+"../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor.modules" 604
+"../../../Engine/Plugins/Runtime/OpenXR/Binaries/Win64/UE4Editor.modules" 605
+"../../../Engine/Plugins/Runtime/OpenXREyeTracker/Binaries/Win64/UE4Editor.modules" 606
+"../../../Engine/Plugins/Runtime/OpenXRHandTracking/Binaries/Win64/UE4Editor.modules" 607
+"../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor.modules" 608
+"../../../Engine/Plugins/VirtualProduction/Takes/Binaries/Win64/UE4Editor.modules" 609
+"../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor.modules" 610
+"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor.modules" 611
+"../../../Engine/Plugins/Runtime/SoundFields/Binaries/Win64/UE4Editor.modules" 612
+"../../../Engine/Plugins/Runtime/Synthesis/Binaries/Win64/UE4Editor.modules" 613
+"../../../Engine/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor.modules" 614
+"../../../Engine/Plugins/Runtime/WebMMoviePlayer/Binaries/Win64/UE4Editor.modules" 615
+"../../../Engine/Plugins/Media/WebMMedia/Binaries/Win64/UE4Editor.modules" 616
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor.modules" 617
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Binaries/Win64/UE4Editor.modules" 618
+"../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/Binaries/Win64/UE4Editor.modules" 619
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor.modules" 620
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor.modules" 621
 "../../../Engine/Content/Certificates/ThirdParty/cacert.pem" 622
 "../../../Engine/Config/ConsoleVariables.ini" 623
 "../../../Engine/Binaries/Win64/Android/UE4Editor.modules" 624
@@ -642,8 +642,8 @@
 "../../../Engine/Content/Localization/Engine/es/Engine.locres" 642
 "../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es/OnlineSubsystem.locres" 643
 "../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es/OnlineSubsystemUtils.locres" 644
-"../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es/OnlineSubsystemIOS.locres" 645
-"../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es/OnlineSubsystemGooglePlay.locres" 646
+"../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es/OnlineSubsystemGooglePlay.locres" 645
+"../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es/OnlineSubsystemIOS.locres" 646
 "../../../Engine/Content/Internationalization/icudt64l/es_AR.res" 647
 "../../../Engine/Content/Internationalization/icudt64l/es_419.res" 648
 "../../../Engine/Content/Internationalization/icudt64l/numberingSystems.res" 649
@@ -2214,68 +2214,68 @@
 "../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 2214
 "../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 2215
 "../../../Engine/Content/EngineMeshes/Cylinder.uasset" 2216
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 2217
-"../../../Engine/Content/EditorResources/S_Note.uasset" 2218
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 2219
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 2220
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 2221
-"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 2222
-"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 2223
-"../../Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 2224
-"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 2225
-"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 2226
-"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 2227
-"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 2228
-"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 2229
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 2230
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 2231
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 2232
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 2233
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 2234
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 2235
-"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 2236
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 2237
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 2238
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 2239
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 2240
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 2241
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 2242
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 2243
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 2244
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 2245
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 2246
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 2247
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 2248
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 2249
-"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 2250
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 2251
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 2252
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 2253
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 2254
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 2255
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 2256
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 2257
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 2258
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 2259
-"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 2260
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 2261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 2262
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 2263
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 2264
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 2265
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 2266
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 2267
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 2268
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 2269
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 2270
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 2271
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 2272
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 2273
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 2274
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 2275
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 2276
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 2277
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 2278
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 2217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 2218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 2219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 2220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 2221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 2222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 2223
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 2224
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 2225
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 2226
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 2227
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 2228
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 2229
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 2230
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 2231
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 2232
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 2233
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 2234
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 2235
+"../../../Engine/Content/EditorResources/S_Note.uasset" 2236
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 2237
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 2238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 2239
+"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 2240
+"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 2241
+"../../Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 2242
+"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 2243
+"../../Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 2244
+"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 2245
+"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 2246
+"../../Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 2247
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 2248
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 2249
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 2250
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 2251
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 2252
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 2253
+"../../Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 2254
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 2255
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 2256
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 2257
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 2258
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 2259
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 2260
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 2261
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 2262
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 2263
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 2264
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 2265
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 2266
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 2267
+"../../Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 2268
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 2269
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 2270
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 2271
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 2272
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 2273
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 2274
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 2275
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 2276
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 2277
+"../../Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 2278
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 2279
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 2280
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 2281
@@ -2325,15 +2325,15 @@
 "../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 2325
 "../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 2326
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2327
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2328
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2329
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2328
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2329
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 2330
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 2331
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 2332
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.uasset" 2333
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 2334
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2335
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2336
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2334
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2335
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 2336
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2337
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2338
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2339
@@ -2358,14 +2358,14 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 2358
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Personaje.uasset" 2359
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ModoDeJuego/NewGameMode.uasset" 2360
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 2361
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2362
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 2363
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 2364
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2365
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2366
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset" 2367
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2368
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 2361
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 2362
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2363
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2364
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset" 2365
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2366
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 2367
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2368
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2369
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset" 2370
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2371
@@ -2391,89 +2391,89 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 2391
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pincho2.uasset" 2392
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Prueba.umap" 2393
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/6/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0554F20F00173F8DF87D4705F948503B382652FB.udd" 2394
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D6EE7B5DA462AD1D6C844ED8460BD58642AD3021.udd" 2395
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CC08EFE88BDE507D397760475BB6A47D5E491957.udd" 2396
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F46C820F064B3FEC8070BAE898D2C431D87020E7.udd" 2397
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___AE16F9C39E489222374C925E2873C6B5F3711204.udd" 2398
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__D2DDF16A4E1557913120473BFA21A3BDB27C4801.udd" 2399
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__8A7FCE607F016B3097B8CE6C136BA7643B598F8A.udd" 2400
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__4FDBC8D49E8B2A66FA02686794F7A51F718BDF58.udd" 2401
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__DB55C865116023C749CBC835BF3BC04D05DA0668.udd" 2402
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__E304473691A28C6518B693B0FD60623F446D7D6A.udd" 2403
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__A8477151C99D9E48BD4118B429DB188F1608F050.udd" 2404
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__33CD5D1A6DF44992FA8F72BDD07727B97D784986.udd" 2405
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__5C35540B3BF719BED39D6453AD52CB63A9E0C56C.udd" 2406
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__61C434C1E3CA6C0A45D4C31E98394A885C9F9A75.udd" 2407
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__CBF15D093728D5CC744FDBC8108F29E36DD6E708.udd" 2408
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__8DB7F2BE36B9842323D300CBCAC0DFE6956D6795.udd" 2409
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__EE4EEE443378870204869B51F26751077BD918C0.udd" 2410
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__8BB924D32285CE5097CB4CF36C4B369933F34846.udd" 2411
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/6/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2C8B727E729B714655C8CC20865F5333A18EDD39.udd" 2412
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 2413
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2414
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2415
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2416
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2417
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uasset" 2418
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2419
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2420
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2421
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2422
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2423
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uasset" 2424
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.umap" 2425
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2426
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2427
-"../../../Engine/Content/EditorResources/S_KHinge.uasset" 2428
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2429
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2430
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2431
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2432
-"../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset" 2433
-"../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset" 2434
-"../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset" 2435
-"../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset" 2436
-"../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset" 2437
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/3/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_BGRA8_B49AF5264EE64898B36D32A446F8408__867454D8928F93A4FE3800992A781A7F5AAED4B3.udd" 2438
-"../../../Engine/Content/EngineSounds/Master.uasset" 2439
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2440
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2441
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2442
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2443
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2444
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2445
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2446
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2447
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2448
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2449
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2450
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2451
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2452
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2453
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2454
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2455
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 2456
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 2457
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 2458
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 2459
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 2460
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 2461
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 2462
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 2463
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uasset" 2464
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uasset" 2465
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2466
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uasset" 2467
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 2394
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2395
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2396
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2397
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2398
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu_BuiltData.uasset" 2399
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2400
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2401
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2402
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2403
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2404
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrincipal.uasset" 2405
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MapaMenu.umap" 2406
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2407
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2408
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2409
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2410
+"../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset" 2411
+"../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset" 2412
+"../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset" 2413
+"../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset" 2414
+"../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset" 2415
+"../../../Engine/Content/EngineSounds/Master.uasset" 2416
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2417
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2418
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2419
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2420
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2421
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2422
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2423
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2424
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2428
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2429
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2430
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2431
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2432
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 2433
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 2434
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 2435
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 2436
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 2437
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 2438
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 2439
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 2440
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uasset" 2441
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uasset" 2442
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2443
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uasset" 2444
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/6/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0554F20F00173F8DF87D4705F948503B382652FB.udd" 2445
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D6EE7B5DA462AD1D6C844ED8460BD58642AD3021.udd" 2446
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CC08EFE88BDE507D397760475BB6A47D5E491957.udd" 2447
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F46C820F064B3FEC8070BAE898D2C431D87020E7.udd" 2448
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___AE16F9C39E489222374C925E2873C6B5F3711204.udd" 2449
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__D2DDF16A4E1557913120473BFA21A3BDB27C4801.udd" 2450
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__8A7FCE607F016B3097B8CE6C136BA7643B598F8A.udd" 2451
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__4FDBC8D49E8B2A66FA02686794F7A51F718BDF58.udd" 2452
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__DB55C865116023C749CBC835BF3BC04D05DA0668.udd" 2453
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__E304473691A28C6518B693B0FD60623F446D7D6A.udd" 2454
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_ACCD02C94A2A69172692__A8477151C99D9E48BD4118B429DB188F1608F050.udd" 2455
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__33CD5D1A6DF44992FA8F72BDD07727B97D784986.udd" 2456
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__8DB7F2BE36B9842323D300CBCAC0DFE6956D6795.udd" 2457
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AUTODXT_11_1497387C485A379AD8A2__CBF15D093728D5CC744FDBC8108F29E36DD6E708.udd" 2458
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__5C35540B3BF719BED39D6453AD52CB63A9E0C56C.udd" 2459
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_G8_3036D79341628DF8C6F8BFB69EE49A1B_0__61C434C1E3CA6C0A45D4C31E98394A885C9F9A75.udd" 2460
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__8BB924D32285CE5097CB4CF36C4B369933F34846.udd" 2461
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/4/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_09D6237048C49F0F4A6EC9B__EE4EEE443378870204869B51F26751077BD918C0.udd" 2462
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/6/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2C8B727E729B714655C8CC20865F5333A18EDD39.udd" 2463
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2464
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2465
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 2466
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/3/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_BGRA8_B49AF5264EE64898B36D32A446F8408__867454D8928F93A4FE3800992A781A7F5AAED4B3.udd" 2467
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2468
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset" 2469
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset" 2470
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 2471
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 2472
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2473
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Glass.uasset" 2474
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2469
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset" 2470
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset" 2471
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 2472
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 2473
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2474
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 2475
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2476
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Glass.uasset" 2476
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 2477
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 2478
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 2479
@@ -2484,9 +2484,9 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2484
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2485
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2486
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2487
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2488
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2489
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2487
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2488
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2489
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2490
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 2491
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2492
@@ -2534,48 +2534,48 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2534
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2535
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2536
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2537
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2538
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2539
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2540
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2541
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2542
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2543
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2544
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2545
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2546
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2547
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2548
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2549
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2550
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2551
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2552
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2553
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2554
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2555
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2556
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2557
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2558
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2559
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 2560
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2561
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2562
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2563
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2564
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2565
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2566
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2567
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2568
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2569
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2570
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2571
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2572
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2573
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2574
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2575
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 2576
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2577
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2578
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2537
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2538
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2539
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2540
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2541
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2542
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2543
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2544
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2545
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2546
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2547
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2548
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2549
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2550
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2551
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2552
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2553
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 2554
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2555
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2556
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2557
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2558
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2559
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2560
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2561
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2562
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2563
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2564
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2565
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2566
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2567
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2568
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2569
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2570
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2571
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 2573
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2574
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2575
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2576
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2577
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2578
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2579
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2580
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2581
@@ -2601,90 +2601,90 @@
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 2601
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 2602
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2603
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 2604
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2605
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2606
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 2607
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 2608
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 2609
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 2610
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 2611
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 2612
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 2613
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 2614
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 2615
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 2616
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uasset" 2617
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 2618
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 2619
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse01.uasset" 2620
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse02.uasset" 2621
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 2622
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 2623
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2624
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 2625
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 2626
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQU__DAF12A6358AE92ABFDD815DED98C163F515AFE00.udd" 2627
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_9DA98EA84BABC89B09D7EDB482364AC__466CC5A32D3BB3638E519707378B5AE27A8D45DC.udd" 2628
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/NAVCOLLISION_2983273BE5D6425391E8C0B3D1C0A55D_NAVCOLLISION_X_9DA98EA84BABC89B0__B30A5D5074F956DCEA94DB4F848F3777748F7265.udd" 2629
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 2630
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 2631
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2632
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 2633
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 2634
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 2635
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 2636
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 2637
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uasset" 2638
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 2639
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 2640
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uasset" 2641
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 2642
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01.uasset" 2643
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 2644
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2645
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2646
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2647
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2648
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap.umap" 2649
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01.uasset" 2650
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/4/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___82880AF97EB9B06AC808A7527A1434A282FF6E5C.udd" 2651
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01.uasset" 2652
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset" 2653
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 2654
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 2655
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 2656
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2657
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 2658
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 2659
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uasset" 2660
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uasset" 2661
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 2662
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 2663
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2664
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" 2665
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 2666
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 2667
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 2668
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 2669
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 2670
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 2671
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 2672
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 2673
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 2674
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1A8437DE4A2C452B6AFD111F915ED9BF36DB225A.udd" 2675
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 2604
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 2605
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 2606
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 2607
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2608
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 2609
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 2610
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 2611
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 2612
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 2613
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2614
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 2615
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 2616
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 2617
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 2618
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Sparks.uasset" 2619
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 2620
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 2621
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Smoke.uasset" 2622
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 2623
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 2624
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 2625
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 2626
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 2627
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 2628
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Steam01.uasset" 2629
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Particles/P_Fire.uasset" 2630
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 2631
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 2632
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2633
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2634
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2635
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2636
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 2637
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 2638
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2639
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2640
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Smoke01.uasset" 2641
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 2642
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 2643
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 2644
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/StarterMap.umap" 2645
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 2646
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth_2.uasset" 2647
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled_2.uasset" 2648
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Fire01.uasset" 2649
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 2650
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 2651
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2652
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" 2653
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset" 2654
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 2655
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 2656
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 2657
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse01.uasset" 2658
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Audio/Collapse02.uasset" 2659
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQU__DAF12A6358AE92ABFDD815DED98C163F515AFE00.udd" 2660
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_9DA98EA84BABC89B09D7EDB482364AC__466CC5A32D3BB3638E519707378B5AE27A8D45DC.udd" 2661
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/NAVCOLLISION_2983273BE5D6425391E8C0B3D1C0A55D_NAVCOLLISION_X_9DA98EA84BABC89B0__B30A5D5074F956DCEA94DB4F848F3777748F7265.udd" 2662
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/4/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___82880AF97EB9B06AC808A7527A1434A282FF6E5C.udd" 2663
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1A8437DE4A2C452B6AFD111F915ED9BF36DB225A.udd" 2664
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2665
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 2666
+"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A86C208A5AB9119E8861AD5908FBEB4CE448EA22.udd" 2667
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 2668
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 2669
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 2670
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 2671
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 2672
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 2673
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 2674
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 2675
 "../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 2676
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 2677
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 2678
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 2679
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 2678
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 2679
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 2680
-"C:/Users/Doge/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A86C208A5AB9119E8861AD5908FBEB4CE448EA22.udd" 2681
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 2682
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 2681
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 2682
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 2683
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 2684
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 2685
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 2686
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 2687
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 2686
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 2687
 "C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 2688
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 2689
-"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 2690
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 2689
+"C:/Users/Doge/Desktop/Nueva carpeta/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 2690
