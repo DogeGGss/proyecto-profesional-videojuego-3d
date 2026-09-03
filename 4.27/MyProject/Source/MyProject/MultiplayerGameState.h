@@ -12,6 +12,10 @@ class MYPROJECT_API AMultiplayerGameState : public AGameStateBase
     GENERATED_BODY()
 
 public:
+    UFUNCTION(BlueprintPure, Category = "Juego|UI")
+    FString ObtenerResultadoPartida(APlayerController* JugadorLocal);
+
+public:
     AMultiplayerGameState();
     virtual void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 

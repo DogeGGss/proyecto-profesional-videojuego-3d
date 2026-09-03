@@ -17,6 +17,10 @@ public:
     void TickTimerRonda();
     void OtorgarPunto(class ATagPlayerState* JugadorGanador);
 
+protected:
+    FTimerHandle TimerHandle_Reinicio;
+    void ReiniciarPartida();
+
 private:
     FTimerHandle TimerHandle_Ronda;
     int32 JugadoresConectados;

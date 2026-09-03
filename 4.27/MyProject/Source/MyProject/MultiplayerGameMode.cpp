@@ -122,10 +122,19 @@ void AMultiplayerGameMode::IniciarCuentaRegresiva()
             APawn* Peon = GS->PlayerArray[i]->GetPawn();
             if (Peon)
             {
-                // 1. Teletransportamos al jugador a su base
-                Peon->SetActorLocationAndRotation(PuntosDeSpawn[i]->GetActorLocation(), PuntosDeSpawn[i]->GetActorRotation());
+                // 1. Teletransportamos el cuerpo
+                Peon->SetActorLocation(PuntosDeSpawn[i]->GetActorLocation());
 
-                // 2. Le bloqueamos las físicas de movimiento al personaje
+                // 2. Forzamos al controlador (la cámara/cabeza) a mirar hacia donde indica el Player Start
+                APlayerController* PC = Cast<APlayerController>(Peon->GetController());
+                if (PC)
+                {
+                    // Reemplazamos SetControlRotation (que solo afecta al servidor y el cliente sobreescribe)
+                    // por ClientSetRotation, que envía una orden RPC (Remote Procedure Call) directa al cliente.
+                    PC->ClientSetRotation(PuntosDeSpawn[i]->GetActorRotation(), true);
+                }
+
+                // 3. Congelamos las piernas
                 ACharacter* Personaje = Cast<ACharacter>(Peon);
                 if (Personaje && Personaje->GetCharacterMovement())
                 {
@@ -165,6 +174,9 @@ void AMultiplayerGameMode::OtorgarPunto(ATagPlayerState* JugadorGanador)
     {
         GS->EstadoActual = EEstadoJuego::FinPartida;
         GetWorldTimerManager().ClearTimer(TimerHandle_Ronda);
+
+        // NUEVO: Esperamos 5 segundos para que lean el cartel de VICTORIA/DERROTA y reiniciamos
+        GetWorldTimerManager().SetTimer(TimerHandle_Reinicio, this, &AMultiplayerGameMode::ReiniciarPartida, 5.0f, false);
     }
     else
     {
@@ -173,4 +185,37 @@ void AMultiplayerGameMode::OtorgarPunto(ATagPlayerState* JugadorGanador)
         GS->TiempoRonda = 5;
         GetWorldTimerManager().SetTimer(TimerHandle_Ronda, this, &AMultiplayerGameMode::TickTimerRonda, 1.0f, true);
     }
+}
+
+FString AMultiplayerGameState::ObtenerResultadoPartida(APlayerController* JugadorLocal)
+{
+    // 1. Si la partida sigue su curso, la pantalla queda transparente
+    if (EstadoActual != EEstadoJuego::FinPartida)
+    {
+        return TEXT("");
+    }
+
+    // 2. Seguridad anti-crasheos
+    if (!JugadorLocal) return TEXT("");
+
+    // 3. ¿Quién está mirando la pantalla? (HasAuthority confirma si es el Host)
+    bool bEsHost = JugadorLocal->HasAuthority();
+
+    if (bEsHost)
+    {
+        // Somos el Jugador 1
+        return (PuntosJugador1 >= 3) ? TEXT("¡VICTORIA!") : TEXT("DERROTA");
+    }
+    else
+    {
+        // Somos el Jugador 2 (Cliente)
+        return (PuntosJugador2 >= 3) ? TEXT("¡VICTORIA!") : TEXT("DERROTA");
+    }
+}
+
+void AMultiplayerGameMode::ReiniciarPartida()
+{
+    // "?Restart" le indica a Unreal que recargue exactamente el mismo mapa actual.
+    // El 'false' significa que las conexiones no se caen, simplemente se recargan.
+    GetWorld()->ServerTravel("?Restart", false);
 }
