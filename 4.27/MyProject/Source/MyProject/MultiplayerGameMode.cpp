@@ -2,6 +2,10 @@
 #include "MultiplayerGameState.h"
 #include "TagPlayerState.h"
 #include "TimerManager.h"
+#include "Kismet/GameplayStatics.h"
+#include "GameFramework/PlayerStart.h"
+#include "GameFramework/Character.h"
+#include "GameFramework/CharacterMovementComponent.h"
 
 AMultiplayerGameMode::AMultiplayerGameMode()
 {
@@ -44,6 +48,23 @@ void AMultiplayerGameMode::IniciarRonda()
         }
     }
 
+    // Descongelamos las físicas para que empiece la persecución
+    if (GS->PlayerArray.Num() >= 2)
+    {
+        for (int i = 0; i < 2; i++)
+        {
+            APawn* Peon = GS->PlayerArray[i]->GetPawn();
+            if (Peon)
+            {
+                ACharacter* Personaje = Cast<ACharacter>(Peon);
+                if (Personaje && Personaje->GetCharacterMovement())
+                {
+                    Personaje->GetCharacterMovement()->SetMovementMode(MOVE_Walking);
+                }
+            }
+        }
+    }
+
     GetWorldTimerManager().SetTimer(TimerHandle_Ronda, this, &AMultiplayerGameMode::TickTimerRonda, 1.0f, true);
 }
 
@@ -58,13 +79,13 @@ void AMultiplayerGameMode::TickTimerRonda()
     {
         GetWorldTimerManager().ClearTimer(TimerHandle_Ronda);
 
-        if (GS->EstadoActual == EEstadoJuego::CuentaRegresiva || GS->EstadoActual == EEstadoJuego::FinRonda)
+        if (GS->EstadoActual == EEstadoJuego::CuentaRegresiva)
         {
-            IniciarRonda(); // Terminó la pausa, arranca la acción
+            IniciarRonda(); // Terminan los 5s de espera, arranca la partida
         }
         else if (GS->EstadoActual == EEstadoJuego::EnRonda)
         {
-            // El Mancha no lo alcanzó en 30s. El Evasor gana el punto[cite: 1]
+            // El Mancha no lo alcanzó en 30s. El Evasor gana el punto
             if (GameState->PlayerArray.Num() >= 2)
             {
                 ATagPlayerState* PS1 = Cast<ATagPlayerState>(GameState->PlayerArray[0]);
@@ -74,18 +95,47 @@ void AMultiplayerGameMode::TickTimerRonda()
                 else if (PS2 && !PS2->bEsMancha) OtorgarPunto(PS2);
             }
         }
+        else if (GS->EstadoActual == EEstadoJuego::FinRonda)
+        {
+            // Terminan los 5s del marcador. Iniciamos la cuenta regresiva (que ahora se encarga de teletransportar)
+            IniciarCuentaRegresiva();
+        }
     }
 }
 
 void AMultiplayerGameMode::IniciarCuentaRegresiva()
 {
     AMultiplayerGameState* GS = GetGameState<AMultiplayerGameState>();
-    if (GS)
+    if (!GS) return;
+
+    GS->EstadoActual = EEstadoJuego::CuentaRegresiva;
+    GS->TiempoRonda = 5;
+
+    // Buscamos los Spawns en el mapa
+    TArray<AActor*> PuntosDeSpawn;
+    UGameplayStatics::GetAllActorsOfClass(GetWorld(), APlayerStart::StaticClass(), PuntosDeSpawn);
+
+    if (PuntosDeSpawn.Num() >= 2 && GS->PlayerArray.Num() >= 2)
     {
-        GS->EstadoActual = EEstadoJuego::CuentaRegresiva;
-        GS->TiempoRonda = 5; // 5 segundos de cuenta regresiva
-        GetWorldTimerManager().SetTimer(TimerHandle_Ronda, this, &AMultiplayerGameMode::TickTimerRonda, 1.0f, true);
+        for (int i = 0; i < 2; i++)
+        {
+            APawn* Peon = GS->PlayerArray[i]->GetPawn();
+            if (Peon)
+            {
+                // 1. Teletransportamos al jugador a su base
+                Peon->SetActorLocationAndRotation(PuntosDeSpawn[i]->GetActorLocation(), PuntosDeSpawn[i]->GetActorRotation());
+
+                // 2. Le bloqueamos las físicas de movimiento al personaje
+                ACharacter* Personaje = Cast<ACharacter>(Peon);
+                if (Personaje && Personaje->GetCharacterMovement())
+                {
+                    Personaje->GetCharacterMovement()->SetMovementMode(MOVE_None);
+                }
+            }
+        }
     }
+
+    GetWorldTimerManager().SetTimer(TimerHandle_Ronda, this, &AMultiplayerGameMode::TickTimerRonda, 1.0f, true);
 }
 
 void AMultiplayerGameMode::OtorgarPunto(ATagPlayerState* JugadorGanador)
