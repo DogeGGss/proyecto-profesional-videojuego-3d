@@ -48,6 +48,18 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Portal")
 	USceneCaptureComponent2D* Captura;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Portal|Marco")
+	UStaticMeshComponent* MarcoArriba;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Portal|Marco")
+	UStaticMeshComponent* MarcoAbajo;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Portal|Marco")
+	UStaticMeshComponent* MarcoIzquierda;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Portal|Marco")
+	UStaticMeshComponent* MarcoDerecha;
+
 	// ------------------------------------------------------------------
 	// Configuración
 	// ------------------------------------------------------------------
@@ -56,9 +68,15 @@ public:
 	UPROPERTY(EditInstanceOnly, BlueprintReadWrite, Category = "Portal")
 	APortal* PortalDestino;
 
-	/** Material del portal. Debe tener un parámetro de textura llamado "TexturaPortal". */
+	/** Material del portal. Debe tener un parámetro de textura llamado "TexturaPortal",
+	 *  con Sampler Type en Linear Color. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal")
 	UMaterialInterface* MaterialPortal;
+
+	/** Reapunta este portal a otro destino en tiempo de ejecución.
+	 *  Llamalo cuando el jugador NO esté mirando el portal, o va a ver el corte. */
+	UFUNCTION(BlueprintCallable, Category = "Portal")
+	void CambiarDestino(APortal* NuevoDestino);
 
 	// --- Forma ---
 
@@ -80,15 +98,42 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Forma")
 	float AjusteCruce = 0.0f;
 
+	// --- Marco ---
+
+	/** Grosor de las barras del marco. En 0, el marco desaparece. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Marco")
+	float GrosorMarco = 20.0f;
+
+	/** Cuánto sobresale el marco hacia adelante y hacia atrás. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Marco")
+	float ProfundidadMarco = 25.0f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Marco")
+	UMaterialInterface* MaterialMarco;
+
 	// --- Rendimiento ---
 
-	/** Resolución de la vista. Más alto es más nítido y más caro. */
+	/** La vista del portal se renderiza exactamente a la resolución de la
+	 *  pantalla. Es lo que la hace verse igual de nítida que la vista real,
+	 *  y también es lo más caro. Apagalo para builds de Android. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Rendimiento")
+	bool bResolucionDePantalla = true;
+
+	/** Ancho de la vista cuando bResolucionDePantalla está desactivado.
+	 *  El alto se calcula solo, respetando la relación de aspecto de la pantalla. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Rendimiento",
+		meta = (EditCondition = "!bResolucionDePantalla"))
 	int32 ResolucionCaptura = 1024;
 
 	/** Más lejos que esto, el portal deja de renderizar la vista. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Rendimiento")
 	float DistanciaMaximaRender = 3000.0f;
+
+	/** Fija la exposición de la captura para que no se aclare u oscurezca
+	 *  respecto de la vista real. Requiere que el proyecto tenga la exposición
+	 *  automática apagada, o la cámara del jugador va a seguir variando sola. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Portal|Rendimiento")
+	bool bFijarExposicion = false;
 
 	/** Lleva un transform del espacio de este portal al del portal de salida. */
 	FTransform ConvertirAlDestino(const FTransform& EnEsteEspacio) const;
@@ -106,6 +151,7 @@ protected:
 		UPrimitiveComponent* OtroComponente, int32 OtroIndice);
 
 private:
+	void CrearRenderTarget();
 	void ActualizarCaptura();
 	void ComprobarCruce();
 	void Teletransportar(ACharacter* Personaje);
