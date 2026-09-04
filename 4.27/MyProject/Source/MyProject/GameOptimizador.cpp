@@ -62,7 +62,7 @@ void AGameOptimizador::CambiarCalidadGrafica(int32 Nivel)
 		// Le avisamos a Unreal que estamos en calidad mínima
 		if (Ajustes) Ajustes->SetOverallScalabilityLevel(0);
 	}
-	else if (Nivel == 1) // MEDIO (Restauramos valores aceptables)
+	else if (Nivel == 1) // MEDIO (Ajustado para mayor diferencia)
 	{
 		GEngine->Exec(GetWorld(), TEXT("r.Specular 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.Reflections.Quality 1"));
@@ -70,17 +70,17 @@ void AGameOptimizador::CambiarCalidadGrafica(int32 Nivel)
 
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptationQuality 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptation.LensAttenuation 1"));
-		GEngine->Exec(GetWorld(), TEXT("r.Tonemapper.Quality 2"));
+		GEngine->Exec(GetWorld(), TEXT("r.Tonemapper.Quality 1"));
 
-		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 2"));
-		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 2"));
-		GEngine->Exec(GetWorld(), TEXT("sg.PostProcessQuality 2"));
-		GEngine->Exec(GetWorld(), TEXT("sg.TextureQuality 2"));
-		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 0"));
+		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 1"));
+		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 1"));
+		GEngine->Exec(GetWorld(), TEXT("sg.PostProcessQuality 1"));
+		GEngine->Exec(GetWorld(), TEXT("sg.TextureQuality 1"));
+		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 1"));
 
-		GEngine->Exec(GetWorld(), TEXT("r.ScreenPercentage 100"));
+		GEngine->Exec(GetWorld(), TEXT("r.ScreenPercentage 85"));
 
-		if (Ajustes) Ajustes->SetOverallScalabilityLevel(2);
+		if (Ajustes) Ajustes->SetOverallScalabilityLevel(1);
 	}
 	else if (Nivel >= 2) // ALTO (Calidad máxima)
 	{
