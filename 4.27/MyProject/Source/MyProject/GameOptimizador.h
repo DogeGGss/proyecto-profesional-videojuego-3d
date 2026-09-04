@@ -13,6 +13,10 @@ public:
 	// Establece valores predeterminados para las propiedades de este actor
 	AGameOptimizador();
 
+	// Función expuesta para que los botones del Widget puedan cambiar la calidad
+	UFUNCTION(BlueprintCallable, Category = "Optimizacion")
+	void CambiarCalidadGrafica(int32 Nivel);
+
 protected:
 	// Se ejecuta cuando el actor aparece en el nivel / inicia la partida
 	virtual void BeginPlay() override;
