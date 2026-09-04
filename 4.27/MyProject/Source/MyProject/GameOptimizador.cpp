@@ -32,79 +32,74 @@ void AGameOptimizador::BeginPlay()
 
 void AGameOptimizador::CambiarCalidadGrafica(int32 Nivel)
 {
-	// Nos aseguramos de que el puntero al Engine sea válido
 	if (!GEngine || !GetWorld()) return;
 
 	UGameUserSettings* Ajustes = UGameUserSettings::GetGameUserSettings();
 
-	if (Nivel == 0) // BAJO (Tus optimizaciones extremas originales)
+	if (Nivel == 0) // BAJO
 	{
-		// 1. Desactivar reflejos y brillos especulares
+		// 1. Primero dejamos que Unreal guarde y aplique su base
+		if (Ajustes) {
+			Ajustes->SetOverallScalabilityLevel(0);
+			Ajustes->ApplySettings(false);
+		}
+
+		// 2. DESPUÉS aplicamos tus optimizaciones extremas para que sobreescriban a Unreal
 		GEngine->Exec(GetWorld(), TEXT("r.Specular 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.Reflections.Quality 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.SSR.Quality 0"));
-
-		// 2. Controlar la exposición
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptationQuality 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptation.LensAttenuation 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.Tonemapper.Quality 0"));
-
-		// 3. Calidad gráfica y sombras planas
 		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 0"));
 		GEngine->Exec(GetWorld(), TEXT("sg.PostProcessQuality 0"));
 		GEngine->Exec(GetWorld(), TEXT("sg.TextureQuality 0"));
 		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 2"));
-
-		// 4. Rendimiento de pantalla
 		GEngine->Exec(GetWorld(), TEXT("r.ScreenPercentage 70"));
-
-		// Le avisamos a Unreal que estamos en calidad mínima
-		if (Ajustes) Ajustes->SetOverallScalabilityLevel(0);
 	}
-	else if (Nivel == 1) // MEDIO (Ajustado para mayor diferencia)
+	else if (Nivel == 1) // MEDIO
 	{
+		if (Ajustes) {
+			Ajustes->SetOverallScalabilityLevel(1);
+			Ajustes->ApplySettings(false);
+		}
+
+		// Valores intermedios reales: Sombras en 2 (Alta) para que no desaparezcan,
+		// pero Postprocesado en 1 (Bajo) y resolución al 85% para ganar FPS.
 		GEngine->Exec(GetWorld(), TEXT("r.Specular 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.Reflections.Quality 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.SSR.Quality 1"));
-
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptationQuality 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptation.LensAttenuation 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.Tonemapper.Quality 1"));
-
-		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 1"));
-		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 1"));
+		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 2"));
+		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 2"));
 		GEngine->Exec(GetWorld(), TEXT("sg.PostProcessQuality 1"));
 		GEngine->Exec(GetWorld(), TEXT("sg.TextureQuality 1"));
-		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 1"));
-
+		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 1")); 
 		GEngine->Exec(GetWorld(), TEXT("r.ScreenPercentage 85"));
-
-		if (Ajustes) Ajustes->SetOverallScalabilityLevel(1);
 	}
-	else if (Nivel >= 2) // ALTO (Calidad máxima)
+	else if (Nivel >= 2) // ALTO
 	{
+		if (Ajustes) {
+			Ajustes->SetOverallScalabilityLevel(3); // 3 = Épico en Unreal
+			Ajustes->ApplySettings(false);
+		}
+
 		GEngine->Exec(GetWorld(), TEXT("r.Specular 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.Reflections.Quality 2"));
 		GEngine->Exec(GetWorld(), TEXT("r.SSR.Quality 2"));
-
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptationQuality 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.EyeAdaptation.LensAttenuation 1"));
 		GEngine->Exec(GetWorld(), TEXT("r.Tonemapper.Quality 3"));
-
 		GEngine->Exec(GetWorld(), TEXT("sg.ShadowQuality 3"));
 		GEngine->Exec(GetWorld(), TEXT("r.ShadowQuality 3"));
 		GEngine->Exec(GetWorld(), TEXT("sg.PostProcessQuality 3"));
 		GEngine->Exec(GetWorld(), TEXT("sg.TextureQuality 3"));
 		GEngine->Exec(GetWorld(), TEXT("r.MipMapLODBias 0"));
-
 		GEngine->Exec(GetWorld(), TEXT("r.ScreenPercentage 100"));
-
-		if (Ajustes) Ajustes->SetOverallScalabilityLevel(3);
 	}
-
-	// Guardamos en el archivo .ini para que se mantenga al reiniciar (Criterio de Aceptación)
-	if (Ajustes) Ajustes->ApplySettings(false);
 }
 
 // Called every frame
