@@ -2,14 +2,14 @@
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 1
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 3
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 5
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 6
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 7
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 8
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 9
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 10
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 4
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 5
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 6
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 8
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 9
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 10
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 11
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 12
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 13
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 14
@@ -383,10 +383,10 @@
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 382
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 383
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 384
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 385
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 386
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 387
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 388
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 385
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 386
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 387
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 388
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 389
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 390
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 391
@@ -518,235 +518,239 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 517
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 518
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 519
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 520
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uexp" 521
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 522
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 523
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 524
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 525
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 526
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 527
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 528
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 529
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 530
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 531
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 532
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 533
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 534
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 535
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 536
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 537
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 538
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 539
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 540
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 541
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 542
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 543
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 544
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ubulk" 545
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 546
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 547
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 548
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 549
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 550
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 551
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 552
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 553
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 554
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 555
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 556
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 557
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 558
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 559
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 560
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 561
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 562
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 563
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 564
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 565
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.uasset" 566
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.uexp" 567
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 568
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 569
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 570
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 571
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 572
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 573
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 574
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 575
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 576
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 577
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 578
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 579
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 580
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 581
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 582
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 583
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 584
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 585
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 586
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 587
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 588
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 589
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 590
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 591
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 592
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 593
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 594
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 595
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 596
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 597
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 598
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 599
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 600
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 601
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 602
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 603
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 604
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 605
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 606
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 607
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 608
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonRun.uexp" 609
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 610
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 611
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 612
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 613
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 614
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 615
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 616
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 617
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 618
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 619
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 620
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 621
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 622
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uexp" 623
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uasset" 624
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uexp" 625
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uasset" 626
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uexp" 627
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 628
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 629
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uasset" 630
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uexp" 631
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.uexp" 632
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 633
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.uasset" 634
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.uexp" 635
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 636
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 637
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 638
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 639
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/F_Evasor.uasset" 640
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/F_Evasor.uexp" 641
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 642
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 643
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 644
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 645
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 646
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 647
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Logo/Logo.uasset" 648
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Logo/Logo.uexp" 649
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.uasset" 650
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.uexp" 651
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.ufont" 652
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One_Font.uasset" 653
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One_Font.uexp" 654
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuMultijugador.uasset" 655
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuMultijugador.uexp" 656
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrartida.uasset" 657
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrartida.uexp" 658
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Creditos.uasset" 659
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Creditos.uexp" 660
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SC_Master.uasset" 661
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SC_Master.uexp" 662
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SM_VolumenGeneral.uasset" 663
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SM_VolumenGeneral.uexp" 664
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SG_Ajustes.uasset" 665
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SG_Ajustes.uexp" 666
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Sonido.uasset" 667
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Sonido.uexp" 668
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Graficos.uasset" 669
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Graficos.uexp" 670
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Controles.uasset" 671
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Controles.uexp" 672
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu_Opciones.uasset" 673
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu_Opciones.uexp" 674
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu.uasset" 675
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu.uexp" 676
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Bloque.uasset" 677
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Bloque.uexp" 678
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Mancha.uasset" 679
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Mancha.uexp" 680
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MainMenu.uexp" 681
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MainMenu.umap" 682
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 683
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uexp" 684
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 685
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 686
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/MaterialSphere.uasset" 687
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/MaterialSphere.uexp" 688
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pendulo.uasset" 689
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pendulo.uexp" 690
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 691
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uexp" 692
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 693
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uexp" 694
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 695
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 696
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 697
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 698
-"../../../Engine/Content/BasicShapes/Plane.uasset" 699
-"../../../Engine/Content/BasicShapes/Plane.uexp" 700
-"../../../Engine/Content/BasicShapes/Cube.uasset" 701
-"../../../Engine/Content/BasicShapes/Cube.uexp" 702
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro.uasset" 703
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro.uexp" 704
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.uasset" 705
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.uexp" 706
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.ubulk" 707
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Marcador3D.uasset" 708
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Marcador3D.uexp" 709
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pantalla.uasset" 710
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pantalla.uexp" 711
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPausa.uasset" 712
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPausa.uexp" 713
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Evasor.uasset" 714
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Evasor.uexp" 715
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Personaje.uasset" 716
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Personaje.uexp" 717
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_MultiplayerGameMode.uasset" 718
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_MultiplayerGameMode.uexp" 719
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Juego.uasset" 720
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Juego.uexp" 721
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_ControladorMulti.uasset" 722
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_ControladorMulti.uexp" 723
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GameModeMulti.uasset" 724
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GameModeMulti.uexp" 725
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Barredora.uasset" 726
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Barredora.uexp" 727
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.uexp" 728
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 729
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer_BuiltData.uasset" 730
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer_BuiltData.uexp" 731
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Crono.uasset" 732
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Crono.uexp" 733
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Completado.uasset" 734
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Completado.uexp" 735
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/NPC.uasset" 736
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/NPC.uexp" 737
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Caida.uasset" 738
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Caida.uexp" 739
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/RT_PortalPlaceholder.uasset" 740
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/RT_PortalPlaceholder.uexp" 741
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Portal.uasset" 742
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Portal.uexp" 743
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 744
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Plane.uexp" 745
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Portal.uasset" 746
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Portal.uexp" 747
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 748
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uexp" 749
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer.uexp" 750
-"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer.umap" 751
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 520
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 521
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 522
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 523
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 524
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 525
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 526
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 527
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 528
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 529
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 530
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 531
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 532
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 533
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 534
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 535
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 536
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 537
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 538
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 539
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 540
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 541
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 542
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Logo/Logo.uasset" 543
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Logo/Logo.uexp" 544
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.uasset" 545
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.uexp" 546
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One.ufont" 547
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One_Font.uasset" 548
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/CatchEm/UI/Fuentes/Russo_One_Font.uexp" 549
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuMultijugador.uasset" 550
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuMultijugador.uexp" 551
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrartida.uasset" 552
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPrartida.uexp" 553
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SC_Master.uasset" 554
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SC_Master.uexp" 555
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SM_VolumenGeneral.uasset" 556
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SM_VolumenGeneral.uexp" 557
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SG_Ajustes.uasset" 558
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/SG_Ajustes.uexp" 559
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Sonido.uasset" 560
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Sonido.uexp" 561
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPausa.uasset" 562
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_MenuPausa.uexp" 563
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GuardarRecord.uasset" 564
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GuardarRecord.uexp" 565
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 566
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 567
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 568
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 569
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 570
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 571
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 572
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 573
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.uasset" 574
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.uexp" 575
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 576
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 577
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 578
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 579
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 580
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 581
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 582
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 583
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 584
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 585
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 586
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 587
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 588
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 589
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 590
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 591
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 592
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 593
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 594
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 595
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 596
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 597
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 598
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 599
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 600
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 601
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 602
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 603
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 604
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 605
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 606
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 607
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 608
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 609
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 610
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 611
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 612
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 613
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Mancha.uasset" 614
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Mancha.uexp" 615
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Evasor.uasset" 616
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/M_Evasor.uexp" 617
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 618
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 619
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 620
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonRun.uexp" 621
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 622
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 623
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 624
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 625
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 626
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 627
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 628
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 629
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 630
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 631
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 632
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 633
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Personaje.uasset" 634
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Personaje.uexp" 635
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Controles.uasset" 636
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Controles.uexp" 637
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Graficos.uasset" 638
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Graficos.uexp" 639
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu_Opciones.uasset" 640
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu_Opciones.uexp" 641
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Creditos.uasset" 642
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Creditos.uexp" 643
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu.uasset" 644
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Menu.uexp" 645
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Bloque.uasset" 646
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Bloque.uexp" 647
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 648
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 649
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.uasset" 650
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.uexp" 651
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 652
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 653
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 654
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 655
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 656
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 657
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 658
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 659
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/F_Evasor.uasset" 660
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Mannequin/Character/Materials/F_Evasor.uexp" 661
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uasset" 662
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/CubeMaterial.uexp" 663
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uasset" 664
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube.uexp" 665
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MainMenu.uexp" 666
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/MainMenu.umap" 667
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 668
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 669
+"../../../Engine/Content/BasicShapes/Plane.uasset" 670
+"../../../Engine/Content/BasicShapes/Plane.uexp" 671
+"../../../Engine/Content/BasicShapes/Cube.uasset" 672
+"../../../Engine/Content/BasicShapes/Cube.uexp" 673
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro_2.uasset" 674
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro_2.uexp" 675
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro.uasset" 676
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/ColorPuro.uexp" 677
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.uasset" 678
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.uexp" 679
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador_BuiltData.ubulk" 680
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Marcador3D.uasset" 681
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Marcador3D.uexp" 682
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pantalla.uasset" 683
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pantalla.uexp" 684
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_MultiplayerGameMode.uasset" 685
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_MultiplayerGameMode.uexp" 686
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Juego.uasset" 687
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Juego.uexp" 688
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_ControladorMulti.uasset" 689
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_ControladorMulti.uexp" 690
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GameModeMulti.uasset" 691
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_GameModeMulti.uexp" 692
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Barredora.uasset" 693
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Barredora.uexp" 694
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 695
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uexp" 696
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 697
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 698
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 699
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uexp" 700
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 701
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 702
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/MaterialSphere.uasset" 703
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Props/MaterialSphere.uexp" 704
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pendulo.uasset" 705
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Pendulo.uexp" 706
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.uexp" 707
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Multijugador.umap" 708
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer_BuiltData.uasset" 709
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer_BuiltData.uexp" 710
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Crono.uasset" 711
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_HUD_Crono.uexp" 712
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Completado.uasset" 713
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/WBP_Completado.uexp" 714
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/NPC.uasset" 715
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/NPC.uexp" 716
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Caida.uasset" 717
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/Caida.uexp" 718
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/RT_PortalPlaceholder.uasset" 719
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/RT_PortalPlaceholder.uexp" 720
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Portal.uasset" 721
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Materials/M_Portal.uexp" 722
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 723
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Plane.uexp" 724
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Portal.uasset" 725
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_Portal.uexp" 726
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 727
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Shapes/Shape_Cube.uexp" 728
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uasset" 729
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Blueprints/BP_PlataformaMovil_2.uexp" 730
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer.uexp" 731
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/Maps/Singleplayer.umap" 732
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 733
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RampMaterial.uexp" 734
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 735
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 736
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 737
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 738
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 739
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 740
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 741
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 742
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 743
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 744
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 745
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 746
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ubulk" 747
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 748
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uexp" 749
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uasset" 750
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/TemplateFloor.uexp" 751
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 752
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 753
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.uexp" 754
+"C:/Users/NTR/OneDrive/Escritorio/TP Labo/juego/proyecto-profesional-videojuego-3d/4.27/MyProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 755
