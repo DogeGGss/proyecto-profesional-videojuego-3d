@@ -45,6 +45,11 @@ void AMultiplayerGameMode::IniciarRonda()
             bool bDado = FMath::RandBool();
             PS1->bEsMancha = bDado;
             PS2->bEsMancha = !bDado;
+
+            // El PlayerState replica una vez por segundo. Sin esto el cliente
+            // pasa hasta un segundo creyendo que es evasor y el cartel parpadea.
+            PS1->ForceNetUpdate();
+            PS2->ForceNetUpdate();
         }
     }
 
@@ -117,6 +122,7 @@ void AMultiplayerGameMode::IniciarCuentaRegresiva()
         if (ATagPlayerState* PS = Cast<ATagPlayerState>(Estado))
         {
             PS->bTeMancharon = false;
+            PS->ForceNetUpdate();
         }
     }
 
@@ -184,6 +190,9 @@ void AMultiplayerGameMode::OtorgarPunto(ATagPlayerState* JugadorGanador)
 
         if (PS1) PS1->bEsMancha = false;
         if (PS2) PS2->bEsMancha = false;
+
+        if (PS1) PS1->ForceNetUpdate();
+        if (PS2) PS2->ForceNetUpdate();
     }
 
     // Comprobar condición de victoria (al mejor de 5)
