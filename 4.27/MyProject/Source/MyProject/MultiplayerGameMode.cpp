@@ -111,6 +111,15 @@ void AMultiplayerGameMode::IniciarCuentaRegresiva()
     GS->EstadoActual = EEstadoJuego::CuentaRegresiva;
     GS->TiempoRonda = 5;
 
+    // Limpiamos la marca de "te mancharon" antes de que arranque la ronda nueva.
+    for (APlayerState* Estado : GS->PlayerArray)
+    {
+        if (ATagPlayerState* PS = Cast<ATagPlayerState>(Estado))
+        {
+            PS->bTeMancharon = false;
+        }
+    }
+
     // Buscamos los Spawns en el mapa
     TArray<AActor*> PuntosDeSpawn;
     UGameplayStatics::GetAllActorsOfClass(GetWorld(), APlayerStart::StaticClass(), PuntosDeSpawn);
@@ -165,6 +174,14 @@ void AMultiplayerGameMode::OtorgarPunto(ATagPlayerState* JugadorGanador)
         // Al dejar de ser Mancha, es físicamente imposible que un jugador sume puntos durante los 5s de pausa.
         ATagPlayerState* PS1 = Cast<ATagPlayerState>(GameState->PlayerArray[0]);
         ATagPlayerState* PS2 = Cast<ATagPlayerState>(GameState->PlayerArray[1]);
+
+        // Si el que suma el punto era la mancha, la ronda termino por un toque,
+        // asi que el otro es el manchado. Si no, se acabaron los 30 segundos
+        // y no se mancha a nadie.
+        const bool bFueToque = JugadorGanador->bEsMancha;
+        if (PS1) PS1->bTeMancharon = (bFueToque && PS1 != JugadorGanador);
+        if (PS2) PS2->bTeMancharon = (bFueToque && PS2 != JugadorGanador);
+
         if (PS1) PS1->bEsMancha = false;
         if (PS2) PS2->bEsMancha = false;
     }

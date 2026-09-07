@@ -5,4 +5,5 @@ void ATagPlayerState::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutL
 {
     Super::GetLifetimeReplicatedProps(OutLifetimeProps);
     DOREPLIFETIME(ATagPlayerState, bEsMancha);
+    DOREPLIFETIME(ATagPlayerState, bTeMancharon);
 }

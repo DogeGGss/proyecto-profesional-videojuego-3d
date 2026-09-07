@@ -13,4 +13,8 @@ public:
 
     UPROPERTY(Replicated, BlueprintReadOnly, Category = "Rol")
         bool bEsMancha;
+
+    /** Verdadero solo para el jugador al que acaban de manchar. Se limpia al empezar la cuenta regresiva. */
+    UPROPERTY(Replicated, BlueprintReadOnly, Category = "Rol")
+        bool bTeMancharon = false;
 };
