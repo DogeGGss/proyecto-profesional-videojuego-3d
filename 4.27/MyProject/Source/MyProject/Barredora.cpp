@@ -1,19 +1,20 @@
-#include "Barredora.h"
+Ôªø#include "Barredora.h"
 #include "Components/SceneComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "Engine/StaticMesh.h"
 #include "GameFramework/Character.h"
+#include "GameFramework/GameStateBase.h"
 
 ABarredora::ABarredora()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
 	// El pivote es el eje de giro. Va en el centro del camino, a la altura
-	// a la que querÈs que barra la barra.
+	// a la que quer√©s que barra la barra.
 	Pivote = CreateDefaultSubobject<USceneComponent>(TEXT("Pivote"));
 	RootComponent = Pivote;
 
-	// El brazo sale horizontal desde el eje hacia +X y gira con Èl.
+	// El brazo sale horizontal desde el eje hacia +X y gira con √©l.
 	Brazo = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Brazo"));
 	Brazo->SetupAttachment(Pivote);
 	Brazo->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
@@ -25,8 +26,8 @@ void ABarredora::OnConstruction(const FTransform& Transform)
 {
 	Super::OnConstruction(Transform);
 
-	// Medimos la malla a lo largo de X: cu·nto mide y dÛnde tiene el origen.
-	// AsÌ funciona con un cubo centrado, con uno de origen en la punta, o
+	// Medimos la malla a lo largo de X: cu√°nto mide y d√≥nde tiene el origen.
+	// As√≠ funciona con un cubo centrado, con uno de origen en la punta, o
 	// con cualquier malla propia.
 	float LargoMalla = 100.f;
 	float CentroMalla = 0.f;
@@ -61,10 +62,14 @@ void ABarredora::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	// Giro continuo en Yaw. Igual que el pÈndulo, depende del tiempo de juego
-	// y no de la fÌsica, asÌ que el recorrido es idÈntico en cada corrida.
-	// El Fmod evita que el ·ngulo crezca sin lÌmite en partidas largas.
-	const float Tiempo = GetWorld()->GetTimeSeconds();
+	// Giro continuo en Yaw. Igual que el p√©ndulo, depende del tiempo de juego
+	// y no de la f√≠sica, as√≠ que el recorrido es id√©ntico en cada corrida.
+	// El Fmod evita que el √°ngulo crezca sin l√≠mite en partidas largas.
+	float Tiempo = GetWorld()->GetTimeSeconds();
+	if (const AGameStateBase* Estado = GetWorld()->GetGameState())
+	{
+		Tiempo = Estado->GetServerWorldTimeSeconds();
+	}
 	const float Angulo = FMath::Fmod(AnguloInicial + Tiempo * VelocidadGrados, 360.f);
 
 	Pivote->SetRelativeRotation(FRotator(0.f, Angulo, 0.f));
@@ -92,9 +97,9 @@ void ABarredora::AlSolaparse(UPrimitiveComponent* ComponentePropio, AActor* Otro
 	Radial.Z = 0.f;
 	Radial.Normalize();
 
-	// Tangencial: perpendicular al radio, o sea la direcciÛn en la que se est·
+	// Tangencial: perpendicular al radio, o sea la direcci√≥n en la que se est√°
 	// moviendo la barra en ese punto. Es lo que hace que el golpe se sienta
-	// como un barrido y no como un empujÛn hacia afuera.
+	// como un barrido y no como un empuj√≥n hacia afuera.
 	FVector Tangencial = FVector::CrossProduct(FVector::UpVector, Radial);
 	if (VelocidadGrados < 0.f)
 	{

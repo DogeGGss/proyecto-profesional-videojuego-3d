@@ -1,18 +1,19 @@
-#include "Pendulo.h"
+Ôªø#include "Pendulo.h"
 #include "Components/SceneComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "Engine/StaticMesh.h"
 #include "GameFramework/Character.h"
+#include "GameFramework/GameStateBase.h"
 
 APendulo::APendulo()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
-	// El pivote es el punto fijo: todo lo dem·s cuelga de ac· y rota alrededor suyo.
+	// El pivote es el punto fijo: todo lo dem√°s cuelga de ac√° y rota alrededor suyo.
 	Pivote = CreateDefaultSubobject<USceneComponent>(TEXT("Pivote"));
 	RootComponent = Pivote;
 
-	// El brazo/soga. Sin colisiÛn, para que el jugador no choque contra el cable.
+	// El brazo/soga. Sin colisi√≥n, para que el jugador no choque contra el cable.
 	Brazo = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Brazo"));
 	Brazo->SetupAttachment(Pivote);
 	Brazo->SetCollisionEnabled(ECollisionEnabled::NoCollision);
@@ -32,7 +33,7 @@ void APendulo::OnConstruction(const FTransform& Transform)
 	// La cabeza cuelga a "Largo" unidades por debajo del pivote.
 	Cabeza->SetRelativeLocation(FVector(0.f, 0.f, -Largo));
 
-	// Medimos la malla del brazo: altura y dÛnde tiene su origen.
+	// Medimos la malla del brazo: altura y d√≥nde tiene su origen.
 	float AlturaMalla = 100.f;
 	float CentroMalla = 0.f;
 	if (Brazo->GetStaticMesh() != nullptr)
@@ -67,15 +68,19 @@ void APendulo::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	// Sin() devuelve entre -1 y 1, asÌ que el ·ngulo va de -AnguloMaximo a +AnguloMaximo.
-	// Al depender del tiempo de juego y no de la fÌsica, el recorrido es siempre
-	// idÈntico: dos corridas del circuito dan el mismo resultado y el rÈcord es justo.
-	const float Tiempo = GetWorld()->GetTimeSeconds();
+	// Sin() devuelve entre -1 y 1, as√≠ que el √°ngulo va de -AnguloMaximo a +AnguloMaximo.
+	// Al depender del tiempo de juego y no de la f√≠sica, el recorrido es siempre
+	// id√©ntico: dos corridas del circuito dan el mismo resultado y el r√©cord es justo.
+	float Tiempo = GetWorld()->GetTimeSeconds();
+	if (const AGameStateBase* Estado = GetWorld()->GetGameState())
+	{
+		Tiempo = Estado->GetServerWorldTimeSeconds();
+	}
 	const float Angulo = FMath::Sin(Tiempo * Velocidad + Desfase) * AnguloMaximo;
 
 	const FRotator NuevaRotacion = bOscilarDeCostado
 		? FRotator(0.f, 0.f, Angulo)   // Roll: oscila de costado
-		: FRotator(Angulo, 0.f, 0.f);  // Pitch: oscila hacia adelante y atr·s
+		: FRotator(Angulo, 0.f, 0.f);  // Pitch: oscila hacia adelante y atr√°s
 
 	Pivote->SetRelativeRotation(NuevaRotacion);
 }
@@ -90,7 +95,7 @@ void APendulo::AlSolaparse(UPrimitiveComponent* ComponentePropio, AActor* OtroAc
 		return;
 	}
 
-	// Cooldown: sin esto, mientras el jugador estÈ dentro de la bola lo relanza sin parar.
+	// Cooldown: sin esto, mientras el jugador est√© dentro de la bola lo relanza sin parar.
 	const float Ahora = GetWorld()->GetTimeSeconds();
 	if (Ahora - TiempoUltimoGolpe < TiempoEntreGolpes)
 	{
@@ -98,9 +103,9 @@ void APendulo::AlSolaparse(UPrimitiveComponent* ComponentePropio, AActor* OtroAc
 	}
 	TiempoUltimoGolpe = Ahora;
 
-	// DirecciÛn: desde la cabeza hacia el jugador, o sea que lo aleja de la bola.
+	// Direcci√≥n: desde la cabeza hacia el jugador, o sea que lo aleja de la bola.
 	// Si lo toca desde la izquierda sale despedido a la derecha, y viceversa,
-	// sin necesidad de saber hacia dÛnde iba el pÈndulo.
+	// sin necesidad de saber hacia d√≥nde iba el p√©ndulo.
 	FVector Direccion = Personaje->GetActorLocation() - Cabeza->GetComponentLocation();
 	Direccion.Z = 0.f;
 	Direccion.Normalize();
@@ -108,6 +113,6 @@ void APendulo::AlSolaparse(UPrimitiveComponent* ComponentePropio, AActor* OtroAc
 	const FVector Impulso = Direccion * Fuerza + FVector(0.f, 0.f, FuerzaVertical);
 
 	// LaunchCharacter es la forma correcta de empujar un Character: el Character
-	// Movement Component ignora los impulsos de fÌsica normales.
+	// Movement Component ignora los impulsos de f√≠sica normales.
 	Personaje->LaunchCharacter(Impulso, true, true);
 }

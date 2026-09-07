@@ -1,4 +1,4 @@
-#pragma once
+Ôªø#pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
@@ -36,7 +36,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Movimiento")
 	float VelocidadGrados = 90.0f;
 
-	/** ¡ngulo de arranque. PonÈ valores distintos si ponÈs varias en fila. */
+	/** √Ångulo de arranque. Pon√© valores distintos si pon√©s varias en fila. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Movimiento")
 	float AnguloInicial = 0.0f;
 
@@ -54,7 +54,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Golpe")
 	float Fuerza = 1200.0f;
 
-	/** Cu·nto lo levanta adem·s de empujarlo. */
+	/** Cu√°nto lo levanta adem√°s de empujarlo. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Golpe")
 	float FuerzaVertical = 400.0f;
 
@@ -63,7 +63,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Golpe", meta = (ClampMin = "0.0", ClampMax = "1.0"))
 	float EmpujeHaciaAfuera = 0.3f;
 
-	/** Segundos mÌnimos entre dos golpes, para que no lo empuje en loop. */
+	/** Segundos m√≠nimos entre dos golpes, para que no lo empuje en loop. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Barredora|Golpe")
 	float TiempoEntreGolpes = 1.0f;
 

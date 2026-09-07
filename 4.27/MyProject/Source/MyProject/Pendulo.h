@@ -1,4 +1,4 @@
-#pragma once
+Ôªø#pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
@@ -17,7 +17,7 @@ public:
 
 	virtual void Tick(float DeltaTime) override;
 
-	/** Recalcula el largo del brazo y la posiciÛn de la cabeza al editar en el editor. */
+	/** Recalcula el largo del brazo y la posici√≥n de la cabeza al editar en el editor. */
 	virtual void OnConstruction(const FTransform& Transform) override;
 
 	// --- Componentes ---
@@ -26,7 +26,7 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Pendulo")
 	USceneComponent* Pivote;
 
-	/** La soga o vara. Sin colisiÛn. */
+	/** La soga o vara. Sin colisi√≥n. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Pendulo")
 	UStaticMeshComponent* Brazo;
 
@@ -36,7 +36,7 @@ public:
 
 	// --- Movimiento ---
 
-	/** QuÈ tan r·pido oscila. M·s alto = m·s r·pido. */
+	/** Qu√© tan r√°pido oscila. M√°s alto = m√°s r√°pido. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Movimiento")
 	float Velocidad = 2.0f;
 
@@ -44,7 +44,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Movimiento")
 	float AnguloMaximo = 60.0f;
 
-	/** Corrimiento del arranque. PonÈ valores distintos si ponÈs varios en fila. */
+	/** Corrimiento del arranque. Pon√© valores distintos si pon√©s varios en fila. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Movimiento")
 	float Desfase = 0.0f;
 
@@ -56,7 +56,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Movimiento")
 	float GrosorBrazo = 0.08f;
 
-	/** Si est· tildado oscila de costado (Roll); si no, hacia adelante y atr·s (Pitch). */
+	/** Si est√° tildado oscila de costado (Roll); si no, hacia adelante y atr√°s (Pitch). */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Movimiento")
 	bool bOscilarDeCostado = false;
 
@@ -66,11 +66,11 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Golpe")
 	float Fuerza = 1200.0f;
 
-	/** Cu·nto lo levanta adem·s de empujarlo. */
+	/** Cu√°nto lo levanta adem√°s de empujarlo. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Golpe")
 	float FuerzaVertical = 400.0f;
 
-	/** Segundos mÌnimos entre dos golpes, para que no lo empuje en loop. */
+	/** Segundos m√≠nimos entre dos golpes, para que no lo empuje en loop. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pendulo|Golpe")
 	float TiempoEntreGolpes = 1.0f;
 
