@@ -209,7 +209,7 @@ FString AMultiplayerGameState::ObtenerResultadoPartida(APlayerController* Jugado
     else
     {
         // Somos el Jugador 2 (Cliente)
-        return (PuntosJugador1 >= 3) ? TEXT("\u00A1VICTORIA!") : TEXT("DERROTA");
+        return (PuntosJugador2 >= 3) ? TEXT("\u00A1VICTORIA!") : TEXT("DERROTA");
     }
 }
 
