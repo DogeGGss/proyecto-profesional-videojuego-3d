@@ -2,7 +2,7 @@
 
 El juego de la mancha, en 3D. Proyecto desarrollado en **Unreal Engine 4.27**.
 
-🌐 **[Sitio del juego](docs/index.html)** — capturas, tabla de récords y descargas
+🌐 **[Sitio del juego](https://dogeggss.github.io/proyecto-profesional-videojuego-3d/)** — capturas, tabla de récords y descargas
 🎮 **[Descargar para Windows](https://github.com/DogeGGss/proyecto-profesional-videojuego-3d/releases/download/v0.7.0-test-uni/CATCH.EM.rar)** · **[Descargar para Android](https://github.com/DogeGGss/proyecto-profesional-videojuego-3d/releases/download/v0.5.0-test-android-uni/CATCH.EM.apk)**
 
 ## Modos de juego
